@@ -1,0 +1,5702 @@
+[
+  {
+    "productId": 1,
+    "productName": "Echo Dot (4th generation) amz",
+    "rating": 2,
+    "price": 26,
+    "discount": 29,
+    "positiveReviews": 12,
+    "negativeReviews": 19,
+    "totalReviews": 31,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 53,
+      "month2": 94,
+      "month3": 36,
+      "totalSales": 183
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 2,
+    "productName": "Kindle Paperwhite amz",
+    "rating": 2,
+    "price": 44,
+    "discount": 42,
+    "positiveReviews": 42,
+    "negativeReviews": 69,
+    "totalReviews": 111,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 95,
+      "month2": 67,
+      "month3": 48,
+      "totalSales": 210
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 3,
+    "productName": "Apple AirPods Pro amz",
+    "rating": 0,
+    "price": 66,
+    "discount": 29,
+    "positiveReviews": 44,
+    "negativeReviews": 7,
+    "totalReviews": 51,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 64,
+      "month2": 60,
+      "month3": 15,
+      "totalSales": 139
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 4,
+    "productName": "Instant Pot Duo amz",
+    "rating": 1,
+    "price": 63,
+    "discount": 24,
+    "positiveReviews": 88,
+    "negativeReviews": 27,
+    "totalReviews": 115,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Books",
+    "sales": {
+      "month1": 8,
+      "month2": 59,
+      "month3": 17,
+      "totalSales": 84
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 5,
+    "productName": "Fitbit Charge 4 amz",
+    "rating": 5,
+    "price": 21,
+    "discount": 38,
+    "positiveReviews": 91,
+    "negativeReviews": 49,
+    "totalReviews": 140,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 20,
+      "month2": 86,
+      "month3": 16,
+      "totalSales": 122
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 6,
+    "productName": "Sony WH-1000XM4 Wireless Headphones amz",
+    "rating": 5,
+    "price": 5,
+    "discount": 44,
+    "positiveReviews": 74,
+    "negativeReviews": 69,
+    "totalReviews": 143,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 40,
+      "month2": 2,
+      "month3": 42,
+      "totalSales": 84
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 7,
+    "productName": "Samsung Galaxy Watch 4 amz",
+    "rating": 3,
+    "price": 53,
+    "discount": 14,
+    "positiveReviews": 83,
+    "negativeReviews": 59,
+    "totalReviews": 142,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 55,
+      "month2": 46,
+      "month3": 72,
+      "totalSales": 173
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 8,
+    "productName": "Nintendo Switch amz",
+    "rating": 4,
+    "price": 60,
+    "discount": 36,
+    "positiveReviews": 27,
+    "negativeReviews": 14,
+    "totalReviews": 41,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Books",
+    "sales": {
+      "month1": 78,
+      "month2": 11,
+      "month3": 74,
+      "totalSales": 163
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 9,
+    "productName": "Philips Sonicare DiamondClean Toothbrush amz",
+    "rating": 3,
+    "price": 26,
+    "discount": 27,
+    "positiveReviews": 78,
+    "negativeReviews": 52,
+    "totalReviews": 130,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 100,
+      "month2": 28,
+      "month3": 41,
+      "totalSales": 169
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 10,
+    "productName": "Bose QuietComfort 35 II Wireless Headphones amz",
+    "rating": 3,
+    "price": 97,
+    "discount": 35,
+    "positiveReviews": 18,
+    "negativeReviews": 30,
+    "totalReviews": 48,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 64,
+      "month2": 48,
+      "month3": 73,
+      "totalSales": 185
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 11,
+    "productName": "Roomba Robot Vacuum amz",
+    "rating": 1,
+    "price": 31,
+    "discount": 14,
+    "positiveReviews": 23,
+    "negativeReviews": 41,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 29,
+      "month2": 30,
+      "month3": 30,
+      "totalSales": 89
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 12,
+    "productName": "Anker PowerCore Portable Charger amz",
+    "rating": 5,
+    "price": 24,
+    "discount": 44,
+    "positiveReviews": 73,
+    "negativeReviews": 79,
+    "totalReviews": 152,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 90,
+      "month2": 87,
+      "month3": 83,
+      "totalSales": 260
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 13,
+    "productName": "GoPro Hero9 Black amz",
+    "rating": 0,
+    "price": 82,
+    "discount": 37,
+    "positiveReviews": 77,
+    "negativeReviews": 88,
+    "totalReviews": 165,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 8,
+      "month2": 98,
+      "month3": 36,
+      "totalSales": 142
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 14,
+    "productName": "JBL Flip 5 Portable Speaker amz",
+    "rating": 1,
+    "price": 50,
+    "discount": 50,
+    "positiveReviews": 31,
+    "negativeReviews": 70,
+    "totalReviews": 101,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 3,
+      "month2": 40,
+      "month3": 84,
+      "totalSales": 127
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 15,
+    "productName": "Apple Watch Series 6 amz",
+    "rating": 4,
+    "price": 71,
+    "discount": 29,
+    "positiveReviews": 63,
+    "negativeReviews": 3,
+    "totalReviews": 66,
+    "releaseDate": "2023-06-24T05:33:09.613Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 49,
+      "month2": 50,
+      "month3": 4,
+      "totalSales": 103
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 16,
+    "productName": "Dyson Supersonic Hair Dryer amz",
+    "rating": 2,
+    "price": 91,
+    "discount": 22,
+    "positiveReviews": 76,
+    "negativeReviews": 81,
+    "totalReviews": 157,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 26,
+      "month2": 31,
+      "month3": 23,
+      "totalSales": 80
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 17,
+    "productName": "Ring Video Doorbell Pro amz",
+    "rating": 1,
+    "price": 94,
+    "discount": 38,
+    "positiveReviews": 91,
+    "negativeReviews": 67,
+    "totalReviews": 158,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 54,
+      "month2": 61,
+      "month3": 8,
+      "totalSales": 123
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 18,
+    "productName": "Sony PlayStation 5 amz",
+    "rating": 3,
+    "price": 52,
+    "discount": 19,
+    "positiveReviews": 21,
+    "negativeReviews": 67,
+    "totalReviews": 88,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 82,
+      "month2": 8,
+      "month3": 8,
+      "totalSales": 98
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 19,
+    "productName": "Nikon D3500 DSLR Camera amz",
+    "rating": 1,
+    "price": 26,
+    "discount": 41,
+    "positiveReviews": 51,
+    "negativeReviews": 27,
+    "totalReviews": 78,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 82,
+      "month2": 14,
+      "month3": 75,
+      "totalSales": 171
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 20,
+    "productName": "Garmin Forerunner 245 GPS Running Watch amz",
+    "rating": 0,
+    "price": 52,
+    "discount": 22,
+    "positiveReviews": 100,
+    "negativeReviews": 1,
+    "totalReviews": 101,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 16,
+      "month2": 5,
+      "month3": 11,
+      "totalSales": 32
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 21,
+    "productName": "NutriBullet Pro Blender amz",
+    "rating": 1,
+    "price": 93,
+    "discount": 10,
+    "positiveReviews": 67,
+    "negativeReviews": 66,
+    "totalReviews": 133,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 92,
+      "month2": 85,
+      "month3": 99,
+      "totalSales": 276
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 22,
+    "productName": "Microsoft Surface Pro 7 amz",
+    "rating": 5,
+    "price": 84,
+    "discount": 12,
+    "positiveReviews": 2,
+    "negativeReviews": 30,
+    "totalReviews": 32,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 45,
+      "month2": 80,
+      "month3": 50,
+      "totalSales": 175
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 23,
+    "productName": "Weber Spirit II E-310 Gas Grill amz",
+    "rating": 0,
+    "price": 50,
+    "discount": 25,
+    "positiveReviews": 45,
+    "negativeReviews": 59,
+    "totalReviews": 104,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 73,
+      "month2": 44,
+      "month3": 36,
+      "totalSales": 153
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 24,
+    "productName": "Vitamix 5200 Blender amz",
+    "rating": 3,
+    "price": 4,
+    "discount": 19,
+    "positiveReviews": 55,
+    "negativeReviews": 93,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 89,
+      "month2": 42,
+      "month3": 14,
+      "totalSales": 145
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 25,
+    "productName": "TCL 55-Inch 4K Smart TV amz",
+    "rating": 2,
+    "price": 47,
+    "discount": 16,
+    "positiveReviews": 56,
+    "negativeReviews": 13,
+    "totalReviews": 69,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 4,
+      "month2": 55,
+      "month3": 65,
+      "totalSales": 124
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 26,
+    "productName": "AncestryDNA Genetic Testing Kit amz",
+    "rating": 4,
+    "price": 73,
+    "discount": 21,
+    "positiveReviews": 99,
+    "negativeReviews": 29,
+    "totalReviews": 128,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 6,
+      "month2": 34,
+      "month3": 80,
+      "totalSales": 120
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 27,
+    "productName": "Cuisinart 14-Cup Food Processor amz",
+    "rating": 0,
+    "price": 45,
+    "discount": 38,
+    "positiveReviews": 25,
+    "negativeReviews": 23,
+    "totalReviews": 48,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 50,
+      "month2": 67,
+      "month3": 94,
+      "totalSales": 211
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 28,
+    "productName": "Instant Pot Duo Crisp + Air Fryer amz",
+    "rating": 0,
+    "price": 97,
+    "discount": 46,
+    "positiveReviews": 12,
+    "negativeReviews": 64,
+    "totalReviews": 76,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 16,
+      "month2": 63,
+      "month3": 13,
+      "totalSales": 92
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 29,
+    "productName": "KitchenAid Stand Mixer amz",
+    "rating": 0,
+    "price": 9,
+    "discount": 11,
+    "positiveReviews": 80,
+    "negativeReviews": 27,
+    "totalReviews": 107,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 75,
+      "month2": 86,
+      "month3": 75,
+      "totalSales": 236
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 30,
+    "productName": "Fitbit Versa 3 amz",
+    "rating": 5,
+    "price": 23,
+    "discount": 26,
+    "positiveReviews": 75,
+    "negativeReviews": 82,
+    "totalReviews": 157,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 16,
+      "month2": 51,
+      "month3": 90,
+      "totalSales": 157
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 31,
+    "productName": "Apple iPad Air amz",
+    "rating": 0,
+    "price": 48,
+    "discount": 43,
+    "positiveReviews": 91,
+    "negativeReviews": 68,
+    "totalReviews": 159,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 15,
+      "month2": 15,
+      "month3": 34,
+      "totalSales": 64
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 32,
+    "productName": "Sony X900H 65-Inch TV amz",
+    "rating": 3,
+    "price": 58,
+    "discount": 17,
+    "positiveReviews": 10,
+    "negativeReviews": 83,
+    "totalReviews": 93,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 90,
+      "month2": 45,
+      "month3": 78,
+      "totalSales": 213
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 33,
+    "productName": "Garmin Venu 2S Fitness Smartwatch amz",
+    "rating": 4,
+    "price": 46,
+    "discount": 46,
+    "positiveReviews": 6,
+    "negativeReviews": 27,
+    "totalReviews": 33,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 79,
+      "month2": 46,
+      "month3": 41,
+      "totalSales": 166
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 34,
+    "productName": "Oculus Quest 2 VR Headset amz",
+    "rating": 0,
+    "price": 72,
+    "discount": 50,
+    "positiveReviews": 32,
+    "negativeReviews": 22,
+    "totalReviews": 54,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 78,
+      "month2": 100,
+      "month3": 83,
+      "totalSales": 261
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 35,
+    "productName": "iRobot Braava Jet M6 Robot Mop amz",
+    "rating": 4,
+    "price": 46,
+    "discount": 10,
+    "positiveReviews": 34,
+    "negativeReviews": 55,
+    "totalReviews": 89,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 46,
+      "month2": 12,
+      "month3": 26,
+      "totalSales": 84
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 36,
+    "productName": "Samsung Galaxy Buds Pro amz",
+    "rating": 0,
+    "price": 23,
+    "discount": 46,
+    "positiveReviews": 63,
+    "negativeReviews": 66,
+    "totalReviews": 129,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 28,
+      "month2": 75,
+      "month3": 77,
+      "totalSales": 180
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 37,
+    "productName": "All-New Fire HD 10 Tablet amz",
+    "rating": 5,
+    "price": 29,
+    "discount": 26,
+    "positiveReviews": 55,
+    "negativeReviews": 72,
+    "totalReviews": 127,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 39,
+      "month2": 54,
+      "month3": 62,
+      "totalSales": 155
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 38,
+    "productName": "Beats Solo Pro Wireless Headphones amz",
+    "rating": 4,
+    "price": 22,
+    "discount": 25,
+    "positiveReviews": 19,
+    "negativeReviews": 39,
+    "totalReviews": 58,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 10,
+      "month2": 88,
+      "month3": 44,
+      "totalSales": 142
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 39,
+    "productName": "Canon EOS M50 Mark II Mirrorless Camera amz",
+    "rating": 5,
+    "price": 16,
+    "discount": 35,
+    "positiveReviews": 51,
+    "negativeReviews": 46,
+    "totalReviews": 97,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 78,
+      "month2": 11,
+      "month3": 47,
+      "totalSales": 136
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 40,
+    "productName": "Breville Barista Express Espresso Machine amz",
+    "rating": 3,
+    "price": 98,
+    "discount": 33,
+    "positiveReviews": 63,
+    "negativeReviews": 81,
+    "totalReviews": 144,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 14,
+      "month2": 36,
+      "month3": 29,
+      "totalSales": 79
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 41,
+    "productName": "LG OLED65CXPUA 65-Inch 4K Smart OLED TV amz",
+    "rating": 3,
+    "price": 81,
+    "discount": 17,
+    "positiveReviews": 19,
+    "negativeReviews": 30,
+    "totalReviews": 49,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 97,
+      "month2": 74,
+      "month3": 92,
+      "totalSales": 263
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 42,
+    "productName": "Fitbit Inspire 2 amz",
+    "rating": 2,
+    "price": 93,
+    "discount": 11,
+    "positiveReviews": 22,
+    "negativeReviews": 45,
+    "totalReviews": 67,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 68,
+      "month2": 13,
+      "month3": 49,
+      "totalSales": 130
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 43,
+    "productName": "Apple MacBook Pro amz",
+    "rating": 5,
+    "price": 6,
+    "discount": 34,
+    "positiveReviews": 39,
+    "negativeReviews": 85,
+    "totalReviews": 124,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 59,
+      "month2": 91,
+      "month3": 26,
+      "totalSales": 176
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 44,
+    "productName": "Microsoft Xbox Series X amz",
+    "rating": 5,
+    "price": 71,
+    "discount": 43,
+    "positiveReviews": 11,
+    "negativeReviews": 33,
+    "totalReviews": 44,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 99,
+      "month2": 19,
+      "month3": 75,
+      "totalSales": 193
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 45,
+    "productName": "Bose SoundLink Revolve Portable Bluetooth Speaker amz",
+    "rating": 4,
+    "price": 20,
+    "discount": 32,
+    "positiveReviews": 57,
+    "negativeReviews": 67,
+    "totalReviews": 124,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 46,
+      "month2": 81,
+      "month3": 35,
+      "totalSales": 162
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 46,
+    "productName": "Samsung Galaxy Tab S7 amz",
+    "rating": 2,
+    "price": 78,
+    "discount": 12,
+    "positiveReviews": 81,
+    "negativeReviews": 44,
+    "totalReviews": 125,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 63,
+      "month2": 85,
+      "month3": 11,
+      "totalSales": 159
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 47,
+    "productName": "Ninja Foodi Deluxe Pressure Cooker amz",
+    "rating": 0,
+    "price": 6,
+    "discount": 36,
+    "positiveReviews": 29,
+    "negativeReviews": 61,
+    "totalReviews": 90,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 50,
+      "month2": 1,
+      "month3": 92,
+      "totalSales": 143
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 48,
+    "productName": "DJI Mavic Air 2 Drone amz",
+    "rating": 4,
+    "price": 52,
+    "discount": 25,
+    "positiveReviews": 70,
+    "negativeReviews": 17,
+    "totalReviews": 87,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 87,
+      "month2": 20,
+      "month3": 82,
+      "totalSales": 189
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 49,
+    "productName": "Fitbit Aria Air Smart Scale amz",
+    "rating": 5,
+    "price": 63,
+    "discount": 16,
+    "positiveReviews": 84,
+    "negativeReviews": 82,
+    "totalReviews": 166,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 67,
+      "month2": 81,
+      "month3": 37,
+      "totalSales": 185
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 50,
+    "productName": "Sony A7 III Full-Frame Mirrorless Camera amz",
+    "rating": 4,
+    "price": 63,
+    "discount": 18,
+    "positiveReviews": 62,
+    "negativeReviews": 25,
+    "totalReviews": 87,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 92,
+      "month2": 32,
+      "month3": 30,
+      "totalSales": 154
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 51,
+    "productName": "Samsung 970 EVO Plus SSD amz",
+    "rating": 5,
+    "price": 61,
+    "discount": 35,
+    "positiveReviews": 15,
+    "negativeReviews": 83,
+    "totalReviews": 98,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 32,
+      "month2": 9,
+      "month3": 17,
+      "totalSales": 58
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 52,
+    "productName": "Logitech MX Master 3 Wireless Mouse amz",
+    "rating": 1,
+    "price": 25,
+    "discount": 35,
+    "positiveReviews": 54,
+    "negativeReviews": 56,
+    "totalReviews": 110,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 17,
+      "month2": 96,
+      "month3": 51,
+      "totalSales": 164
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 53,
+    "productName": "Apple iPhone 12 Pro Max amz",
+    "rating": 1,
+    "price": 35,
+    "discount": 39,
+    "positiveReviews": 51,
+    "negativeReviews": 97,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 96,
+      "month2": 89,
+      "month3": 63,
+      "totalSales": 248
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 54,
+    "productName": "LG CX 55-Inch OLED 4K Smart TV amz",
+    "rating": 4,
+    "price": 56,
+    "discount": 40,
+    "positiveReviews": 26,
+    "negativeReviews": 61,
+    "totalReviews": 87,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 6,
+      "month2": 10,
+      "month3": 45,
+      "totalSales": 61
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 55,
+    "productName": "Bose SoundSport Wireless Earbuds amz",
+    "rating": 5,
+    "price": 11,
+    "discount": 19,
+    "positiveReviews": 53,
+    "negativeReviews": 76,
+    "totalReviews": 129,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 89,
+      "month2": 64,
+      "month3": 85,
+      "totalSales": 238
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 56,
+    "productName": "Microsoft Surface Laptop 4 amz",
+    "rating": 1,
+    "price": 70,
+    "discount": 40,
+    "positiveReviews": 55,
+    "negativeReviews": 26,
+    "totalReviews": 81,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 96,
+      "month2": 95,
+      "month3": 86,
+      "totalSales": 277
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 57,
+    "productName": "Roku Streaming Stick+ amz",
+    "rating": 1,
+    "price": 2,
+    "discount": 38,
+    "positiveReviews": 51,
+    "negativeReviews": 44,
+    "totalReviews": 95,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 70,
+      "month2": 59,
+      "month3": 79,
+      "totalSales": 208
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 58,
+    "productName": "Anker Soundcore Liberty Air 2 Pro Earbuds amz",
+    "rating": 3,
+    "price": 39,
+    "discount": 46,
+    "positiveReviews": 79,
+    "negativeReviews": 93,
+    "totalReviews": 172,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 98,
+      "month2": 86,
+      "month3": 88,
+      "totalSales": 272
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 59,
+    "productName": "Canon EOS R6 Mirrorless Camera amz",
+    "rating": 2,
+    "price": 29,
+    "discount": 40,
+    "positiveReviews": 71,
+    "negativeReviews": 8,
+    "totalReviews": 79,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 83,
+      "month2": 80,
+      "month3": 95,
+      "totalSales": 258
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 60,
+    "productName": "Sony WF-1000XM4 True Wireless Earbuds amz",
+    "rating": 4,
+    "price": 15,
+    "discount": 39,
+    "positiveReviews": 21,
+    "negativeReviews": 28,
+    "totalReviews": 49,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 31,
+      "month2": 60,
+      "month3": 96,
+      "totalSales": 187
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 61,
+    "productName": "Garmin Fenix 6 Pro amz",
+    "rating": 0,
+    "price": 78,
+    "discount": 44,
+    "positiveReviews": 96,
+    "negativeReviews": 100,
+    "totalReviews": 196,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 48,
+      "month2": 42,
+      "month3": 49,
+      "totalSales": 139
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 62,
+    "productName": "LG 27UK850-W 27-Inch 4K Monitor amz",
+    "rating": 4,
+    "price": 33,
+    "discount": 41,
+    "positiveReviews": 73,
+    "negativeReviews": 66,
+    "totalReviews": 139,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 45,
+      "month2": 97,
+      "month3": 19,
+      "totalSales": 161
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 63,
+    "productName": "Crock-Pot Express Multi-Cooker amz",
+    "rating": 2,
+    "price": 81,
+    "discount": 15,
+    "positiveReviews": 25,
+    "negativeReviews": 80,
+    "totalReviews": 105,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 38,
+      "month2": 40,
+      "month3": 65,
+      "totalSales": 143
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 64,
+    "productName": "Samsung Galaxy S21 Ultra amz",
+    "rating": 5,
+    "price": 54,
+    "discount": 19,
+    "positiveReviews": 46,
+    "negativeReviews": 47,
+    "totalReviews": 93,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 36,
+      "month2": 62,
+      "month3": 1,
+      "totalSales": 99
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 65,
+    "productName": "ASUS ROG Strix G15 Gaming Laptop amz",
+    "rating": 3,
+    "price": 6,
+    "discount": 45,
+    "positiveReviews": 71,
+    "negativeReviews": 0,
+    "totalReviews": 71,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 13,
+      "month2": 46,
+      "month3": 28,
+      "totalSales": 87
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 66,
+    "productName": "Fitbit Sense Advanced Smartwatch amz",
+    "rating": 1,
+    "price": 14,
+    "discount": 15,
+    "positiveReviews": 42,
+    "negativeReviews": 25,
+    "totalReviews": 67,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 56,
+      "month2": 9,
+      "month3": 64,
+      "totalSales": 129
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 67,
+    "productName": "Sony X800H 55-Inch 4K Smart TV amz",
+    "rating": 4,
+    "price": 40,
+    "discount": 41,
+    "positiveReviews": 8,
+    "negativeReviews": 94,
+    "totalReviews": 102,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 88,
+      "month2": 38,
+      "month3": 93,
+      "totalSales": 219
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 68,
+    "productName": "Google Nest Cam Indoor Security Camera amz",
+    "rating": 0,
+    "price": 13,
+    "discount": 30,
+    "positiveReviews": 5,
+    "negativeReviews": 59,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 55,
+      "month2": 49,
+      "month3": 5,
+      "totalSales": 109
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 69,
+    "productName": "Breville Smart Oven Air amz",
+    "rating": 5,
+    "price": 33,
+    "discount": 25,
+    "positiveReviews": 13,
+    "negativeReviews": 53,
+    "totalReviews": 66,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 68,
+      "month2": 73,
+      "month3": 17,
+      "totalSales": 158
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 70,
+    "productName": "Beats Powerbeats Pro Wireless Earphones amz",
+    "rating": 3,
+    "price": 13,
+    "discount": 18,
+    "positiveReviews": 25,
+    "negativeReviews": 42,
+    "totalReviews": 67,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 69,
+      "month2": 20,
+      "month3": 3,
+      "totalSales": 92
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 71,
+    "productName": "Bose Solo 5 TV Soundbar amz",
+    "rating": 1,
+    "price": 73,
+    "discount": 49,
+    "positiveReviews": 21,
+    "negativeReviews": 2,
+    "totalReviews": 23,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 18,
+      "month2": 7,
+      "month3": 27,
+      "totalSales": 52
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 72,
+    "productName": "Apple iMac 27-Inch Retina 5K Display amz",
+    "rating": 2,
+    "price": 81,
+    "discount": 32,
+    "positiveReviews": 17,
+    "negativeReviews": 87,
+    "totalReviews": 104,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 12,
+      "month2": 55,
+      "month3": 7,
+      "totalSales": 74
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 73,
+    "productName": "NVIDIA GeForce RTX 3080 Graphics Card amz",
+    "rating": 2,
+    "price": 20,
+    "discount": 20,
+    "positiveReviews": 17,
+    "negativeReviews": 48,
+    "totalReviews": 65,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 59,
+      "month2": 48,
+      "month3": 16,
+      "totalSales": 123
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 74,
+    "productName": "Nintendo Switch Lite amz",
+    "rating": 1,
+    "price": 50,
+    "discount": 36,
+    "positiveReviews": 31,
+    "negativeReviews": 38,
+    "totalReviews": 69,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 51,
+      "month2": 98,
+      "month3": 28,
+      "totalSales": 177
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 75,
+    "productName": "Jabra Elite 85t True Wireless Earbuds amz",
+    "rating": 4,
+    "price": 63,
+    "discount": 20,
+    "positiveReviews": 30,
+    "negativeReviews": 12,
+    "totalReviews": 42,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 3,
+      "month2": 88,
+      "month3": 70,
+      "totalSales": 161
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 76,
+    "productName": "Canon EOS 90D DSLR Camera amz",
+    "rating": 3,
+    "price": 95,
+    "discount": 16,
+    "positiveReviews": 21,
+    "negativeReviews": 92,
+    "totalReviews": 113,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 1,
+      "month2": 15,
+      "month3": 25,
+      "totalSales": 41
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 77,
+    "productName": "Samsung Galaxy S20 FE amz",
+    "rating": 5,
+    "price": 76,
+    "discount": 29,
+    "positiveReviews": 47,
+    "negativeReviews": 52,
+    "totalReviews": 99,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 32,
+      "month2": 16,
+      "month3": 51,
+      "totalSales": 99
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 78,
+    "productName": "Logitech G502 HERO Gaming Mouse amz",
+    "rating": 1,
+    "price": 21,
+    "discount": 28,
+    "positiveReviews": 16,
+    "negativeReviews": 29,
+    "totalReviews": 45,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 39,
+      "month2": 84,
+      "month3": 84,
+      "totalSales": 207
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 79,
+    "productName": "LG OLED48C1 48-Inch 4K Smart OLED TV amz",
+    "rating": 4,
+    "price": 7,
+    "discount": 39,
+    "positiveReviews": 31,
+    "negativeReviews": 31,
+    "totalReviews": 62,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 49,
+      "month2": 22,
+      "month3": 8,
+      "totalSales": 79
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 80,
+    "productName": "Dyson V11 Animal Cordless Vacuum Cleaner amz",
+    "rating": 5,
+    "price": 68,
+    "discount": 12,
+    "positiveReviews": 61,
+    "negativeReviews": 24,
+    "totalReviews": 85,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 68,
+      "month2": 11,
+      "month3": 50,
+      "totalSales": 129
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 81,
+    "productName": "Philips Hue White and Color Ambiance Smart Bulb amz",
+    "rating": 1,
+    "price": 50,
+    "discount": 38,
+    "positiveReviews": 72,
+    "negativeReviews": 31,
+    "totalReviews": 103,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 27,
+      "month2": 91,
+      "month3": 11,
+      "totalSales": 129
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 82,
+    "productName": "Apple AirTag amz",
+    "rating": 3,
+    "price": 93,
+    "discount": 22,
+    "positiveReviews": 97,
+    "negativeReviews": 14,
+    "totalReviews": 111,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 37,
+      "month2": 76,
+      "month3": 80,
+      "totalSales": 193
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 83,
+    "productName": "Razer BlackWidow Elite Mechanical Gaming Keyboard amz",
+    "rating": 2,
+    "price": 51,
+    "discount": 12,
+    "positiveReviews": 9,
+    "negativeReviews": 29,
+    "totalReviews": 38,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 93,
+      "month2": 31,
+      "month3": 4,
+      "totalSales": 128
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 84,
+    "productName": "Sony ZV-1 Compact Camera amz",
+    "rating": 4,
+    "price": 1,
+    "discount": 26,
+    "positiveReviews": 54,
+    "negativeReviews": 34,
+    "totalReviews": 88,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 43,
+      "month2": 94,
+      "month3": 57,
+      "totalSales": 194
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 85,
+    "productName": "Amazon Echo Show 10 (3rd generation) amz",
+    "rating": 0,
+    "price": 52,
+    "discount": 32,
+    "positiveReviews": 73,
+    "negativeReviews": 6,
+    "totalReviews": 79,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 49,
+      "month2": 39,
+      "month3": 78,
+      "totalSales": 166
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 86,
+    "productName": "HP Pavilion 27-Inch FHD Monitor amz",
+    "rating": 4,
+    "price": 91,
+    "discount": 38,
+    "positiveReviews": 53,
+    "negativeReviews": 37,
+    "totalReviews": 90,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 4,
+      "month2": 86,
+      "month3": 36,
+      "totalSales": 126
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 87,
+    "productName": "Bose QuietComfort Earbuds amz",
+    "rating": 3,
+    "price": 19,
+    "discount": 29,
+    "positiveReviews": 83,
+    "negativeReviews": 54,
+    "totalReviews": 137,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 59,
+      "month2": 4,
+      "month3": 94,
+      "totalSales": 157
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 88,
+    "productName": "Sony Alpha a6400 Mirrorless Camera amz",
+    "rating": 0,
+    "price": 89,
+    "discount": 40,
+    "positiveReviews": 51,
+    "negativeReviews": 10,
+    "totalReviews": 61,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 63,
+      "month2": 56,
+      "month3": 30,
+      "totalSales": 149
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 89,
+    "productName": "Garmin Instinct Solar Outdoor GPS Watch amz",
+    "rating": 3,
+    "price": 80,
+    "discount": 46,
+    "positiveReviews": 49,
+    "negativeReviews": 22,
+    "totalReviews": 71,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 20,
+      "month2": 36,
+      "month3": 72,
+      "totalSales": 128
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 90,
+    "productName": "Nintendo Switch Pro Controller amz",
+    "rating": 3,
+    "price": 35,
+    "discount": 16,
+    "positiveReviews": 63,
+    "negativeReviews": 56,
+    "totalReviews": 119,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 58,
+      "month2": 83,
+      "month3": 21,
+      "totalSales": 162
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 91,
+    "productName": "Fitbit Flex 2 amz",
+    "rating": 3,
+    "price": 83,
+    "discount": 23,
+    "positiveReviews": 0,
+    "negativeReviews": 74,
+    "totalReviews": 74,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 91,
+      "month2": 76,
+      "month3": 44,
+      "totalSales": 211
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 92,
+    "productName": "Apple iPad Pro amz",
+    "rating": 0,
+    "price": 84,
+    "discount": 35,
+    "positiveReviews": 24,
+    "negativeReviews": 82,
+    "totalReviews": 106,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 43,
+      "month2": 68,
+      "month3": 37,
+      "totalSales": 148
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 93,
+    "productName": "Samsung QN90A 75-Inch Neo QLED 4K Smart TV amz",
+    "rating": 3,
+    "price": 68,
+    "discount": 23,
+    "positiveReviews": 10,
+    "negativeReviews": 84,
+    "totalReviews": 94,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 68,
+      "month2": 78,
+      "month3": 64,
+      "totalSales": 210
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 94,
+    "productName": "Breville Joule Sous Vide amz",
+    "rating": 5,
+    "price": 61,
+    "discount": 39,
+    "positiveReviews": 42,
+    "negativeReviews": 10,
+    "totalReviews": 52,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 5,
+      "month2": 99,
+      "month3": 100,
+      "totalSales": 204
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 95,
+    "productName": "Sony WH-1000XM3 Wireless Noise-Canceling Headphones amz",
+    "rating": 5,
+    "price": 20,
+    "discount": 49,
+    "positiveReviews": 86,
+    "negativeReviews": 6,
+    "totalReviews": 92,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 37,
+      "month2": 39,
+      "month3": 16,
+      "totalSales": 92
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 96,
+    "productName": "LG Gram 17-Inch Laptop amz",
+    "rating": 2,
+    "price": 76,
+    "discount": 14,
+    "positiveReviews": 45,
+    "negativeReviews": 11,
+    "totalReviews": 56,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 1,
+      "month2": 91,
+      "month3": 27,
+      "totalSales": 119
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 97,
+    "productName": "Google Pixel 5 amz",
+    "rating": 1,
+    "price": 9,
+    "discount": 13,
+    "positiveReviews": 52,
+    "negativeReviews": 73,
+    "totalReviews": 125,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 47,
+      "month2": 2,
+      "month3": 63,
+      "totalSales": 112
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 98,
+    "productName": "Ring Stick Up Cam Battery amz",
+    "rating": 4,
+    "price": 68,
+    "discount": 48,
+    "positiveReviews": 59,
+    "negativeReviews": 78,
+    "totalReviews": 137,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 24,
+      "month2": 93,
+      "month3": 21,
+      "totalSales": 138
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 99,
+    "productName": "KitchenAid Artisan Series Stand Mixer amz",
+    "rating": 5,
+    "price": 50,
+    "discount": 26,
+    "positiveReviews": 58,
+    "negativeReviews": 21,
+    "totalReviews": 79,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 34,
+      "month2": 20,
+      "month3": 79,
+      "totalSales": 133
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 100,
+    "productName": "DJI Osmo Pocket Handheld Camera amz",
+    "rating": 1,
+    "price": 79,
+    "discount": 28,
+    "positiveReviews": 32,
+    "negativeReviews": 39,
+    "totalReviews": 71,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 80,
+      "month2": 49,
+      "month3": 37,
+      "totalSales": 166
+    },
+    "seller": "Amazon"
+  },
+  {
+    "productId": 101,
+    "productName": "Echo Dot (4th generation) ebay",
+    "rating": 4,
+    "price": 82,
+    "discount": 19,
+    "positiveReviews": 83,
+    "negativeReviews": 36,
+    "totalReviews": 119,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 99,
+      "month2": 46,
+      "month3": 20,
+      "totalSales": 165
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 102,
+    "productName": "Kindle Paperwhite ebay",
+    "rating": 5,
+    "price": 72,
+    "discount": 36,
+    "positiveReviews": 76,
+    "negativeReviews": 72,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 64,
+      "month2": 75,
+      "month3": 75,
+      "totalSales": 214
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 103,
+    "productName": "Apple AirPods Pro ebay",
+    "rating": 0,
+    "price": 95,
+    "discount": 38,
+    "positiveReviews": 57,
+    "negativeReviews": 47,
+    "totalReviews": 104,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 1,
+      "month2": 60,
+      "month3": 50,
+      "totalSales": 111
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 104,
+    "productName": "Instant Pot Duo ebay",
+    "rating": 5,
+    "price": 84,
+    "discount": 40,
+    "positiveReviews": 93,
+    "negativeReviews": 70,
+    "totalReviews": 163,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 95,
+      "month2": 13,
+      "month3": 95,
+      "totalSales": 203
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 105,
+    "productName": "Fitbit Charge 4 ebay",
+    "rating": 0,
+    "price": 97,
+    "discount": 39,
+    "positiveReviews": 52,
+    "negativeReviews": 19,
+    "totalReviews": 71,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 22,
+      "month2": 51,
+      "month3": 89,
+      "totalSales": 162
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 106,
+    "productName": "Sony WH-1000XM4 Wireless Headphones ebay",
+    "rating": 1,
+    "price": 22,
+    "discount": 16,
+    "positiveReviews": 63,
+    "negativeReviews": 64,
+    "totalReviews": 127,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 17,
+      "month2": 14,
+      "month3": 61,
+      "totalSales": 92
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 107,
+    "productName": "Samsung Galaxy Watch 4 ebay",
+    "rating": 3,
+    "price": 91,
+    "discount": 43,
+    "positiveReviews": 68,
+    "negativeReviews": 31,
+    "totalReviews": 99,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 28,
+      "month2": 98,
+      "month3": 5,
+      "totalSales": 131
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 108,
+    "productName": "Nintendo Switch ebay",
+    "rating": 1,
+    "price": 30,
+    "discount": 15,
+    "positiveReviews": 32,
+    "negativeReviews": 29,
+    "totalReviews": 61,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 36,
+      "month2": 50,
+      "month3": 89,
+      "totalSales": 175
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 109,
+    "productName": "Philips Sonicare DiamondClean Toothbrush ebay",
+    "rating": 4,
+    "price": 57,
+    "discount": 33,
+    "positiveReviews": 77,
+    "negativeReviews": 16,
+    "totalReviews": 93,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 61,
+      "month2": 41,
+      "month3": 66,
+      "totalSales": 168
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 110,
+    "productName": "Bose QuietComfort 35 II Wireless Headphones ebay",
+    "rating": 2,
+    "price": 24,
+    "discount": 40,
+    "positiveReviews": 42,
+    "negativeReviews": 30,
+    "totalReviews": 72,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 86,
+      "month2": 63,
+      "month3": 10,
+      "totalSales": 159
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 111,
+    "productName": "Roomba Robot Vacuum ebay",
+    "rating": 1,
+    "price": 15,
+    "discount": 46,
+    "positiveReviews": 19,
+    "negativeReviews": 90,
+    "totalReviews": 109,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 97,
+      "month2": 96,
+      "month3": 11,
+      "totalSales": 204
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 112,
+    "productName": "Anker PowerCore Portable Charger ebay",
+    "rating": 3,
+    "price": 23,
+    "discount": 22,
+    "positiveReviews": 79,
+    "negativeReviews": 47,
+    "totalReviews": 126,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 12,
+      "month2": 79,
+      "month3": 5,
+      "totalSales": 96
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 113,
+    "productName": "GoPro Hero9 Black ebay",
+    "rating": 2,
+    "price": 96,
+    "discount": 26,
+    "positiveReviews": 46,
+    "negativeReviews": 23,
+    "totalReviews": 69,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 86,
+      "month2": 46,
+      "month3": 71,
+      "totalSales": 203
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 114,
+    "productName": "JBL Flip 5 Portable Speaker ebay",
+    "rating": 1,
+    "price": 10,
+    "discount": 48,
+    "positiveReviews": 60,
+    "negativeReviews": 72,
+    "totalReviews": 132,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 38,
+      "month2": 37,
+      "month3": 21,
+      "totalSales": 96
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 115,
+    "productName": "Apple Watch Series 6 ebay",
+    "rating": 4,
+    "price": 11,
+    "discount": 46,
+    "positiveReviews": 68,
+    "negativeReviews": 73,
+    "totalReviews": 141,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 56,
+      "month2": 48,
+      "month3": 66,
+      "totalSales": 170
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 116,
+    "productName": "Dyson Supersonic Hair Dryer ebay",
+    "rating": 3,
+    "price": 26,
+    "discount": 11,
+    "positiveReviews": 42,
+    "negativeReviews": 95,
+    "totalReviews": 137,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 29,
+      "month2": 5,
+      "month3": 12,
+      "totalSales": 46
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 117,
+    "productName": "Ring Video Doorbell Pro ebay",
+    "rating": 4,
+    "price": 1,
+    "discount": 36,
+    "positiveReviews": 26,
+    "negativeReviews": 38,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 83,
+      "month2": 11,
+      "month3": 1,
+      "totalSales": 95
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 118,
+    "productName": "Sony PlayStation 5 ebay",
+    "rating": 2,
+    "price": 31,
+    "discount": 24,
+    "positiveReviews": 68,
+    "negativeReviews": 92,
+    "totalReviews": 160,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 37,
+      "month2": 65,
+      "month3": 78,
+      "totalSales": 180
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 119,
+    "productName": "Nikon D3500 DSLR Camera ebay",
+    "rating": 4,
+    "price": 14,
+    "discount": 44,
+    "positiveReviews": 0,
+    "negativeReviews": 51,
+    "totalReviews": 51,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 36,
+      "month2": 2,
+      "month3": 66,
+      "totalSales": 104
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 120,
+    "productName": "Garmin Forerunner 245 GPS Running Watch ebay",
+    "rating": 1,
+    "price": 69,
+    "discount": 28,
+    "positiveReviews": 88,
+    "negativeReviews": 61,
+    "totalReviews": 149,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 73,
+      "month2": 65,
+      "month3": 49,
+      "totalSales": 187
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 121,
+    "productName": "NutriBullet Pro Blender ebay",
+    "rating": 0,
+    "price": 72,
+    "discount": 34,
+    "positiveReviews": 75,
+    "negativeReviews": 73,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 11,
+      "month2": 84,
+      "month3": 73,
+      "totalSales": 168
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 122,
+    "productName": "Microsoft Surface Pro 7 ebay",
+    "rating": 5,
+    "price": 97,
+    "discount": 16,
+    "positiveReviews": 80,
+    "negativeReviews": 98,
+    "totalReviews": 178,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 21,
+      "month2": 89,
+      "month3": 97,
+      "totalSales": 207
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 123,
+    "productName": "Weber Spirit II E-310 Gas Grill ebay",
+    "rating": 2,
+    "price": 63,
+    "discount": 30,
+    "positiveReviews": 37,
+    "negativeReviews": 27,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 28,
+      "month2": 56,
+      "month3": 80,
+      "totalSales": 164
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 124,
+    "productName": "Vitamix 5200 Blender ebay",
+    "rating": 1,
+    "price": 51,
+    "discount": 11,
+    "positiveReviews": 45,
+    "negativeReviews": 93,
+    "totalReviews": 138,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 13,
+      "month2": 92,
+      "month3": 52,
+      "totalSales": 157
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 125,
+    "productName": "TCL 55-Inch 4K Smart TV ebay",
+    "rating": 0,
+    "price": 50,
+    "discount": 39,
+    "positiveReviews": 79,
+    "negativeReviews": 61,
+    "totalReviews": 140,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 57,
+      "month2": 89,
+      "month3": 59,
+      "totalSales": 205
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 126,
+    "productName": "AncestryDNA Genetic Testing Kit ebay",
+    "rating": 5,
+    "price": 84,
+    "discount": 37,
+    "positiveReviews": 91,
+    "negativeReviews": 90,
+    "totalReviews": 181,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 67,
+      "month2": 27,
+      "month3": 39,
+      "totalSales": 133
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 127,
+    "productName": "Cuisinart 14-Cup Food Processor ebay",
+    "rating": 1,
+    "price": 38,
+    "discount": 24,
+    "positiveReviews": 85,
+    "negativeReviews": 35,
+    "totalReviews": 120,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 61,
+      "month2": 91,
+      "month3": 62,
+      "totalSales": 214
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 128,
+    "productName": "Instant Pot Duo Crisp + Air Fryer ebay",
+    "rating": 1,
+    "price": 23,
+    "discount": 44,
+    "positiveReviews": 69,
+    "negativeReviews": 60,
+    "totalReviews": 129,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 25,
+      "month2": 22,
+      "month3": 90,
+      "totalSales": 137
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 129,
+    "productName": "KitchenAid Stand Mixer ebay",
+    "rating": 3,
+    "price": 79,
+    "discount": 35,
+    "positiveReviews": 36,
+    "negativeReviews": 0,
+    "totalReviews": 36,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 66,
+      "month2": 64,
+      "month3": 67,
+      "totalSales": 197
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 130,
+    "productName": "Fitbit Versa 3 ebay",
+    "rating": 2,
+    "price": 90,
+    "discount": 34,
+    "positiveReviews": 59,
+    "negativeReviews": 82,
+    "totalReviews": 141,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 31,
+      "month2": 13,
+      "month3": 67,
+      "totalSales": 111
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 131,
+    "productName": "Apple iPad Air ebay",
+    "rating": 5,
+    "price": 43,
+    "discount": 47,
+    "positiveReviews": 32,
+    "negativeReviews": 35,
+    "totalReviews": 67,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 82,
+      "month2": 47,
+      "month3": 66,
+      "totalSales": 195
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 132,
+    "productName": "Sony X900H 65-Inch TV ebay",
+    "rating": 1,
+    "price": 93,
+    "discount": 20,
+    "positiveReviews": 0,
+    "negativeReviews": 33,
+    "totalReviews": 33,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 29,
+      "month2": 13,
+      "month3": 55,
+      "totalSales": 97
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 133,
+    "productName": "Garmin Venu 2S Fitness Smartwatch ebay",
+    "rating": 3,
+    "price": 28,
+    "discount": 14,
+    "positiveReviews": 62,
+    "negativeReviews": 66,
+    "totalReviews": 128,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 35,
+      "month2": 78,
+      "month3": 57,
+      "totalSales": 170
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 134,
+    "productName": "Oculus Quest 2 VR Headset ebay",
+    "rating": 1,
+    "price": 69,
+    "discount": 49,
+    "positiveReviews": 8,
+    "negativeReviews": 67,
+    "totalReviews": 75,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 48,
+      "month2": 27,
+      "month3": 67,
+      "totalSales": 142
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 135,
+    "productName": "iRobot Braava Jet M6 Robot Mop ebay",
+    "rating": 3,
+    "price": 98,
+    "discount": 22,
+    "positiveReviews": 99,
+    "negativeReviews": 15,
+    "totalReviews": 114,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 50,
+      "month2": 63,
+      "month3": 49,
+      "totalSales": 162
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 136,
+    "productName": "Samsung Galaxy Buds Pro ebay",
+    "rating": 3,
+    "price": 56,
+    "discount": 31,
+    "positiveReviews": 84,
+    "negativeReviews": 20,
+    "totalReviews": 104,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 88,
+      "month2": 86,
+      "month3": 72,
+      "totalSales": 246
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 137,
+    "productName": "All-New Fire HD 10 Tablet ebay",
+    "rating": 1,
+    "price": 13,
+    "discount": 37,
+    "positiveReviews": 42,
+    "negativeReviews": 48,
+    "totalReviews": 90,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 89,
+      "month2": 100,
+      "month3": 51,
+      "totalSales": 240
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 138,
+    "productName": "Beats Solo Pro Wireless Headphones ebay",
+    "rating": 1,
+    "price": 69,
+    "discount": 11,
+    "positiveReviews": 43,
+    "negativeReviews": 21,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 10,
+      "month2": 17,
+      "month3": 67,
+      "totalSales": 94
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 139,
+    "productName": "Canon EOS M50 Mark II Mirrorless Camera ebay",
+    "rating": 1,
+    "price": 51,
+    "discount": 44,
+    "positiveReviews": 55,
+    "negativeReviews": 58,
+    "totalReviews": 113,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 61,
+      "month2": 70,
+      "month3": 29,
+      "totalSales": 160
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 140,
+    "productName": "Breville Barista Express Espresso Machine ebay",
+    "rating": 4,
+    "price": 91,
+    "discount": 25,
+    "positiveReviews": 94,
+    "negativeReviews": 82,
+    "totalReviews": 176,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 39,
+      "month2": 75,
+      "month3": 40,
+      "totalSales": 154
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 141,
+    "productName": "LG OLED65CXPUA 65-Inch 4K Smart OLED TV ebay",
+    "rating": 0,
+    "price": 10,
+    "discount": 49,
+    "positiveReviews": 23,
+    "negativeReviews": 88,
+    "totalReviews": 111,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 30,
+      "month2": 39,
+      "month3": 56,
+      "totalSales": 125
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 142,
+    "productName": "Fitbit Inspire 2 ebay",
+    "rating": 1,
+    "price": 31,
+    "discount": 29,
+    "positiveReviews": 9,
+    "negativeReviews": 36,
+    "totalReviews": 45,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 69,
+      "month2": 31,
+      "month3": 23,
+      "totalSales": 123
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 143,
+    "productName": "Apple MacBook Pro ebay",
+    "rating": 5,
+    "price": 20,
+    "discount": 12,
+    "positiveReviews": 0,
+    "negativeReviews": 53,
+    "totalReviews": 53,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 13,
+      "month2": 27,
+      "month3": 25,
+      "totalSales": 65
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 144,
+    "productName": "Microsoft Xbox Series X ebay",
+    "rating": 0,
+    "price": 73,
+    "discount": 28,
+    "positiveReviews": 11,
+    "negativeReviews": 1,
+    "totalReviews": 12,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 33,
+      "month2": 23,
+      "month3": 83,
+      "totalSales": 139
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 145,
+    "productName": "Bose SoundLink Revolve Portable Bluetooth Speaker ebay",
+    "rating": 1,
+    "price": 32,
+    "discount": 14,
+    "positiveReviews": 85,
+    "negativeReviews": 36,
+    "totalReviews": 121,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 93,
+      "month2": 95,
+      "month3": 11,
+      "totalSales": 199
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 146,
+    "productName": "Samsung Galaxy Tab S7 ebay",
+    "rating": 3,
+    "price": 92,
+    "discount": 14,
+    "positiveReviews": 56,
+    "negativeReviews": 40,
+    "totalReviews": 96,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 5,
+      "month2": 51,
+      "month3": 55,
+      "totalSales": 111
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 147,
+    "productName": "Ninja Foodi Deluxe Pressure Cooker ebay",
+    "rating": 1,
+    "price": 37,
+    "discount": 13,
+    "positiveReviews": 75,
+    "negativeReviews": 46,
+    "totalReviews": 121,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 22,
+      "month2": 51,
+      "month3": 92,
+      "totalSales": 165
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 148,
+    "productName": "DJI Mavic Air 2 Drone ebay",
+    "rating": 4,
+    "price": 51,
+    "discount": 14,
+    "positiveReviews": 71,
+    "negativeReviews": 36,
+    "totalReviews": 107,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 17,
+      "month2": 89,
+      "month3": 70,
+      "totalSales": 176
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 149,
+    "productName": "Fitbit Aria Air Smart Scale ebay",
+    "rating": 0,
+    "price": 24,
+    "discount": 15,
+    "positiveReviews": 77,
+    "negativeReviews": 35,
+    "totalReviews": 112,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 33,
+      "month2": 66,
+      "month3": 81,
+      "totalSales": 180
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 150,
+    "productName": "Sony A7 III Full-Frame Mirrorless Camera ebay",
+    "rating": 2,
+    "price": 53,
+    "discount": 14,
+    "positiveReviews": 26,
+    "negativeReviews": 91,
+    "totalReviews": 117,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 59,
+      "month2": 61,
+      "month3": 100,
+      "totalSales": 220
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 151,
+    "productName": "Samsung 970 EVO Plus SSD ebay",
+    "rating": 5,
+    "price": 52,
+    "discount": 15,
+    "positiveReviews": 15,
+    "negativeReviews": 93,
+    "totalReviews": 108,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 98,
+      "month2": 17,
+      "month3": 41,
+      "totalSales": 156
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 152,
+    "productName": "Logitech MX Master 3 Wireless Mouse ebay",
+    "rating": 1,
+    "price": 10,
+    "discount": 27,
+    "positiveReviews": 58,
+    "negativeReviews": 57,
+    "totalReviews": 115,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 51,
+      "month2": 27,
+      "month3": 70,
+      "totalSales": 148
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 153,
+    "productName": "Apple iPhone 12 Pro Max ebay",
+    "rating": 3,
+    "price": 93,
+    "discount": 25,
+    "positiveReviews": 12,
+    "negativeReviews": 3,
+    "totalReviews": 15,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 61,
+      "month2": 38,
+      "month3": 80,
+      "totalSales": 179
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 154,
+    "productName": "LG CX 55-Inch OLED 4K Smart TV ebay",
+    "rating": 2,
+    "price": 89,
+    "discount": 29,
+    "positiveReviews": 4,
+    "negativeReviews": 0,
+    "totalReviews": 4,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 44,
+      "month2": 58,
+      "month3": 42,
+      "totalSales": 144
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 155,
+    "productName": "Bose SoundSport Wireless Earbuds ebay",
+    "rating": 4,
+    "price": 75,
+    "discount": 33,
+    "positiveReviews": 27,
+    "negativeReviews": 86,
+    "totalReviews": 113,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 5,
+      "month2": 13,
+      "month3": 50,
+      "totalSales": 68
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 156,
+    "productName": "Microsoft Surface Laptop 4 ebay",
+    "rating": 1,
+    "price": 31,
+    "discount": 26,
+    "positiveReviews": 94,
+    "negativeReviews": 74,
+    "totalReviews": 168,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 13,
+      "month2": 41,
+      "month3": 41,
+      "totalSales": 95
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 157,
+    "productName": "Roku Streaming Stick+ ebay",
+    "rating": 2,
+    "price": 54,
+    "discount": 47,
+    "positiveReviews": 86,
+    "negativeReviews": 36,
+    "totalReviews": 122,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 87,
+      "month2": 55,
+      "month3": 70,
+      "totalSales": 212
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 158,
+    "productName": "Anker Soundcore Liberty Air 2 Pro Earbuds ebay",
+    "rating": 3,
+    "price": 61,
+    "discount": 12,
+    "positiveReviews": 32,
+    "negativeReviews": 28,
+    "totalReviews": 60,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 42,
+      "month2": 86,
+      "month3": 20,
+      "totalSales": 148
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 159,
+    "productName": "Canon EOS R6 Mirrorless Camera ebay",
+    "rating": 3,
+    "price": 44,
+    "discount": 38,
+    "positiveReviews": 72,
+    "negativeReviews": 47,
+    "totalReviews": 119,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 50,
+      "month2": 8,
+      "month3": 96,
+      "totalSales": 154
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 160,
+    "productName": "Sony WF-1000XM4 True Wireless Earbuds ebay",
+    "rating": 1,
+    "price": 44,
+    "discount": 20,
+    "positiveReviews": 2,
+    "negativeReviews": 72,
+    "totalReviews": 74,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 78,
+      "month2": 66,
+      "month3": 41,
+      "totalSales": 185
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 161,
+    "productName": "Garmin Fenix 6 Pro ebay",
+    "rating": 1,
+    "price": 90,
+    "discount": 30,
+    "positiveReviews": 46,
+    "negativeReviews": 85,
+    "totalReviews": 131,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 34,
+      "month2": 64,
+      "month3": 53,
+      "totalSales": 151
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 162,
+    "productName": "LG 27UK850-W 27-Inch 4K Monitor ebay",
+    "rating": 4,
+    "price": 77,
+    "discount": 15,
+    "positiveReviews": 11,
+    "negativeReviews": 55,
+    "totalReviews": 66,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 8,
+      "month2": 23,
+      "month3": 72,
+      "totalSales": 103
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 163,
+    "productName": "Crock-Pot Express Multi-Cooker ebay",
+    "rating": 0,
+    "price": 77,
+    "discount": 15,
+    "positiveReviews": 90,
+    "negativeReviews": 85,
+    "totalReviews": 175,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 34,
+      "month2": 52,
+      "month3": 50,
+      "totalSales": 136
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 164,
+    "productName": "Samsung Galaxy S21 Ultra ebay",
+    "rating": 4,
+    "price": 20,
+    "discount": 37,
+    "positiveReviews": 52,
+    "negativeReviews": 40,
+    "totalReviews": 92,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 57,
+      "month2": 65,
+      "month3": 84,
+      "totalSales": 206
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 165,
+    "productName": "ASUS ROG Strix G15 Gaming Laptop ebay",
+    "rating": 0,
+    "price": 89,
+    "discount": 21,
+    "positiveReviews": 18,
+    "negativeReviews": 95,
+    "totalReviews": 113,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 41,
+      "month2": 68,
+      "month3": 65,
+      "totalSales": 174
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 166,
+    "productName": "Fitbit Sense Advanced Smartwatch ebay",
+    "rating": 1,
+    "price": 86,
+    "discount": 32,
+    "positiveReviews": 88,
+    "negativeReviews": 62,
+    "totalReviews": 150,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 52,
+      "month2": 4,
+      "month3": 19,
+      "totalSales": 75
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 167,
+    "productName": "Sony X800H 55-Inch 4K Smart TV ebay",
+    "rating": 4,
+    "price": 55,
+    "discount": 29,
+    "positiveReviews": 82,
+    "negativeReviews": 86,
+    "totalReviews": 168,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 91,
+      "month2": 36,
+      "month3": 89,
+      "totalSales": 216
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 168,
+    "productName": "Google Nest Cam Indoor Security Camera ebay",
+    "rating": 4,
+    "price": 45,
+    "discount": 15,
+    "positiveReviews": 13,
+    "negativeReviews": 55,
+    "totalReviews": 68,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 34,
+      "month2": 12,
+      "month3": 84,
+      "totalSales": 130
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 169,
+    "productName": "Breville Smart Oven Air ebay",
+    "rating": 3,
+    "price": 59,
+    "discount": 39,
+    "positiveReviews": 67,
+    "negativeReviews": 1,
+    "totalReviews": 68,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 11,
+      "month2": 80,
+      "month3": 51,
+      "totalSales": 142
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 170,
+    "productName": "Beats Powerbeats Pro Wireless Earphones ebay",
+    "rating": 0,
+    "price": 14,
+    "discount": 42,
+    "positiveReviews": 33,
+    "negativeReviews": 9,
+    "totalReviews": 42,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 62,
+      "month2": 15,
+      "month3": 31,
+      "totalSales": 108
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 171,
+    "productName": "Bose Solo 5 TV Soundbar ebay",
+    "rating": 4,
+    "price": 47,
+    "discount": 37,
+    "positiveReviews": 58,
+    "negativeReviews": 61,
+    "totalReviews": 119,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 4,
+      "month2": 41,
+      "month3": 34,
+      "totalSales": 79
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 172,
+    "productName": "Apple iMac 27-Inch Retina 5K Display ebay",
+    "rating": 1,
+    "price": 71,
+    "discount": 30,
+    "positiveReviews": 50,
+    "negativeReviews": 13,
+    "totalReviews": 63,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 30,
+      "month2": 76,
+      "month3": 39,
+      "totalSales": 145
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 173,
+    "productName": "NVIDIA GeForce RTX 3080 Graphics Card ebay",
+    "rating": 4,
+    "price": 40,
+    "discount": 33,
+    "positiveReviews": 5,
+    "negativeReviews": 55,
+    "totalReviews": 60,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 63,
+      "month2": 93,
+      "month3": 12,
+      "totalSales": 168
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 174,
+    "productName": "Nintendo Switch Lite ebay",
+    "rating": 1,
+    "price": 77,
+    "discount": 29,
+    "positiveReviews": 39,
+    "negativeReviews": 20,
+    "totalReviews": 59,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 21,
+      "month2": 71,
+      "month3": 69,
+      "totalSales": 161
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 175,
+    "productName": "Jabra Elite 85t True Wireless Earbuds ebay",
+    "rating": 4,
+    "price": 87,
+    "discount": 17,
+    "positiveReviews": 66,
+    "negativeReviews": 97,
+    "totalReviews": 163,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 61,
+      "month2": 54,
+      "month3": 29,
+      "totalSales": 144
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 176,
+    "productName": "Canon EOS 90D DSLR Camera ebay",
+    "rating": 2,
+    "price": 78,
+    "discount": 36,
+    "positiveReviews": 65,
+    "negativeReviews": 29,
+    "totalReviews": 94,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 47,
+      "month2": 62,
+      "month3": 24,
+      "totalSales": 133
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 177,
+    "productName": "Samsung Galaxy S20 FE ebay",
+    "rating": 5,
+    "price": 94,
+    "discount": 31,
+    "positiveReviews": 71,
+    "negativeReviews": 72,
+    "totalReviews": 143,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 56,
+      "month2": 68,
+      "month3": 25,
+      "totalSales": 149
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 178,
+    "productName": "Logitech G502 HERO Gaming Mouse ebay",
+    "rating": 0,
+    "price": 92,
+    "discount": 10,
+    "positiveReviews": 3,
+    "negativeReviews": 63,
+    "totalReviews": 66,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 72,
+      "month2": 23,
+      "month3": 76,
+      "totalSales": 171
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 179,
+    "productName": "LG OLED48C1 48-Inch 4K Smart OLED TV ebay",
+    "rating": 2,
+    "price": 63,
+    "discount": 39,
+    "positiveReviews": 8,
+    "negativeReviews": 73,
+    "totalReviews": 81,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 95,
+      "month2": 26,
+      "month3": 89,
+      "totalSales": 210
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 180,
+    "productName": "Dyson V11 Animal Cordless Vacuum Cleaner ebay",
+    "rating": 1,
+    "price": 63,
+    "discount": 24,
+    "positiveReviews": 39,
+    "negativeReviews": 57,
+    "totalReviews": 96,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 72,
+      "month2": 72,
+      "month3": 19,
+      "totalSales": 163
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 181,
+    "productName": "Philips Hue White and Color Ambiance Smart Bulb ebay",
+    "rating": 4,
+    "price": 10,
+    "discount": 22,
+    "positiveReviews": 17,
+    "negativeReviews": 17,
+    "totalReviews": 34,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 7,
+      "month2": 63,
+      "month3": 98,
+      "totalSales": 168
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 182,
+    "productName": "Apple AirTag ebay",
+    "rating": 2,
+    "price": 87,
+    "discount": 15,
+    "positiveReviews": 51,
+    "negativeReviews": 29,
+    "totalReviews": 80,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 81,
+      "month2": 20,
+      "month3": 54,
+      "totalSales": 155
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 183,
+    "productName": "Razer BlackWidow Elite Mechanical Gaming Keyboard ebay",
+    "rating": 3,
+    "price": 79,
+    "discount": 41,
+    "positiveReviews": 22,
+    "negativeReviews": 18,
+    "totalReviews": 40,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 35,
+      "month2": 95,
+      "month3": 54,
+      "totalSales": 184
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 184,
+    "productName": "Sony ZV-1 Compact Camera ebay",
+    "rating": 0,
+    "price": 96,
+    "discount": 49,
+    "positiveReviews": 17,
+    "negativeReviews": 43,
+    "totalReviews": 60,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 33,
+      "month2": 11,
+      "month3": 92,
+      "totalSales": 136
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 185,
+    "productName": "Amazon Echo Show 10 (3rd generation) ebay",
+    "rating": 1,
+    "price": 44,
+    "discount": 11,
+    "positiveReviews": 16,
+    "negativeReviews": 15,
+    "totalReviews": 31,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 90,
+      "month2": 75,
+      "month3": 49,
+      "totalSales": 214
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 186,
+    "productName": "HP Pavilion 27-Inch FHD Monitor ebay",
+    "rating": 0,
+    "price": 62,
+    "discount": 26,
+    "positiveReviews": 49,
+    "negativeReviews": 44,
+    "totalReviews": 93,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 79,
+      "month2": 13,
+      "month3": 14,
+      "totalSales": 106
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 187,
+    "productName": "Bose QuietComfort Earbuds ebay",
+    "rating": 4,
+    "price": 10,
+    "discount": 13,
+    "positiveReviews": 23,
+    "negativeReviews": 15,
+    "totalReviews": 38,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 4,
+      "month2": 44,
+      "month3": 76,
+      "totalSales": 124
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 188,
+    "productName": "Sony Alpha a6400 Mirrorless Camera ebay",
+    "rating": 1,
+    "price": 34,
+    "discount": 19,
+    "positiveReviews": 36,
+    "negativeReviews": 26,
+    "totalReviews": 62,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 27,
+      "month2": 97,
+      "month3": 54,
+      "totalSales": 178
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 189,
+    "productName": "Garmin Instinct Solar Outdoor GPS Watch ebay",
+    "rating": 3,
+    "price": 85,
+    "discount": 47,
+    "positiveReviews": 22,
+    "negativeReviews": 3,
+    "totalReviews": 25,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 42,
+      "month2": 38,
+      "month3": 45,
+      "totalSales": 125
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 190,
+    "productName": "Nintendo Switch Pro Controller ebay",
+    "rating": 3,
+    "price": 87,
+    "discount": 29,
+    "positiveReviews": 22,
+    "negativeReviews": 91,
+    "totalReviews": 113,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 51,
+      "month2": 40,
+      "month3": 24,
+      "totalSales": 115
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 191,
+    "productName": "Fitbit Flex 2 ebay",
+    "rating": 4,
+    "price": 46,
+    "discount": 30,
+    "positiveReviews": 99,
+    "negativeReviews": 20,
+    "totalReviews": 119,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 21,
+      "month2": 19,
+      "month3": 41,
+      "totalSales": 81
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 192,
+    "productName": "Apple iPad Pro ebay",
+    "rating": 1,
+    "price": 55,
+    "discount": 49,
+    "positiveReviews": 88,
+    "negativeReviews": 44,
+    "totalReviews": 132,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 28,
+      "month2": 20,
+      "month3": 16,
+      "totalSales": 64
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 193,
+    "productName": "Samsung QN90A 75-Inch Neo QLED 4K Smart TV ebay",
+    "rating": 3,
+    "price": 44,
+    "discount": 36,
+    "positiveReviews": 58,
+    "negativeReviews": 95,
+    "totalReviews": 153,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 41,
+      "month2": 75,
+      "month3": 69,
+      "totalSales": 185
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 194,
+    "productName": "Breville Joule Sous Vide ebay",
+    "rating": 0,
+    "price": 57,
+    "discount": 32,
+    "positiveReviews": 93,
+    "negativeReviews": 99,
+    "totalReviews": 192,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 54,
+      "month2": 86,
+      "month3": 78,
+      "totalSales": 218
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 195,
+    "productName": "Sony WH-1000XM3 Wireless Noise-Canceling Headphones ebay",
+    "rating": 5,
+    "price": 52,
+    "discount": 13,
+    "positiveReviews": 40,
+    "negativeReviews": 92,
+    "totalReviews": 132,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 45,
+      "month2": 61,
+      "month3": 22,
+      "totalSales": 128
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 196,
+    "productName": "LG Gram 17-Inch Laptop ebay",
+    "rating": 3,
+    "price": 45,
+    "discount": 45,
+    "positiveReviews": 84,
+    "negativeReviews": 91,
+    "totalReviews": 175,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 82,
+      "month2": 89,
+      "month3": 6,
+      "totalSales": 177
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 197,
+    "productName": "Google Pixel 5 ebay",
+    "rating": 4,
+    "price": 49,
+    "discount": 44,
+    "positiveReviews": 17,
+    "negativeReviews": 74,
+    "totalReviews": 91,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 6,
+      "month2": 67,
+      "month3": 37,
+      "totalSales": 110
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 198,
+    "productName": "Ring Stick Up Cam Battery ebay",
+    "rating": 1,
+    "price": 24,
+    "discount": 36,
+    "positiveReviews": 48,
+    "negativeReviews": 92,
+    "totalReviews": 140,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 8,
+      "month2": 45,
+      "month3": 67,
+      "totalSales": 120
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 199,
+    "productName": "KitchenAid Artisan Series Stand Mixer ebay",
+    "rating": 1,
+    "price": 16,
+    "discount": 36,
+    "positiveReviews": 11,
+    "negativeReviews": 66,
+    "totalReviews": 77,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 68,
+      "month2": 21,
+      "month3": 41,
+      "totalSales": 130
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 200,
+    "productName": "DJI Osmo Pocket Handheld Camera ebay",
+    "rating": 0,
+    "price": 89,
+    "discount": 18,
+    "positiveReviews": 17,
+    "negativeReviews": 60,
+    "totalReviews": 77,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 23,
+      "month2": 8,
+      "month3": 15,
+      "totalSales": 46
+    },
+    "seller": "eBay"
+  },
+  {
+    "productId": 201,
+    "productName": "Echo Dot (4th generation) fc",
+    "rating": 2,
+    "price": 52,
+    "discount": 11,
+    "positiveReviews": 52,
+    "negativeReviews": 68,
+    "totalReviews": 120,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 45,
+      "month2": 57,
+      "month3": 57,
+      "totalSales": 159
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 202,
+    "productName": "Kindle Paperwhite fc",
+    "rating": 2,
+    "price": 61,
+    "discount": 23,
+    "positiveReviews": 64,
+    "negativeReviews": 54,
+    "totalReviews": 118,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 30,
+      "month2": 70,
+      "month3": 47,
+      "totalSales": 147
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 203,
+    "productName": "Apple AirPods Pro fc",
+    "rating": 1,
+    "price": 20,
+    "discount": 39,
+    "positiveReviews": 11,
+    "negativeReviews": 68,
+    "totalReviews": 79,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 77,
+      "month2": 56,
+      "month3": 67,
+      "totalSales": 200
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 204,
+    "productName": "Instant Pot Duo fc",
+    "rating": 3,
+    "price": 81,
+    "discount": 43,
+    "positiveReviews": 75,
+    "negativeReviews": 73,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 8,
+      "month2": 82,
+      "month3": 32,
+      "totalSales": 122
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 205,
+    "productName": "Fitbit Charge 4 fc",
+    "rating": 0,
+    "price": 99,
+    "discount": 43,
+    "positiveReviews": 50,
+    "negativeReviews": 14,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 17,
+      "month2": 91,
+      "month3": 2,
+      "totalSales": 110
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 206,
+    "productName": "Sony WH-1000XM4 Wireless Headphones fc",
+    "rating": 5,
+    "price": 50,
+    "discount": 20,
+    "positiveReviews": 36,
+    "negativeReviews": 30,
+    "totalReviews": 66,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 92,
+      "month2": 78,
+      "month3": 15,
+      "totalSales": 185
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 207,
+    "productName": "Samsung Galaxy Watch 4 fc",
+    "rating": 5,
+    "price": 37,
+    "discount": 37,
+    "positiveReviews": 36,
+    "negativeReviews": 48,
+    "totalReviews": 84,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 27,
+      "month2": 82,
+      "month3": 84,
+      "totalSales": 193
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 208,
+    "productName": "Nintendo Switch fc",
+    "rating": 3,
+    "price": 29,
+    "discount": 30,
+    "positiveReviews": 24,
+    "negativeReviews": 24,
+    "totalReviews": 48,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 27,
+      "month2": 23,
+      "month3": 36,
+      "totalSales": 86
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 209,
+    "productName": "Philips Sonicare DiamondClean Toothbrush fc",
+    "rating": 2,
+    "price": 13,
+    "discount": 29,
+    "positiveReviews": 97,
+    "negativeReviews": 96,
+    "totalReviews": 193,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 24,
+      "month2": 32,
+      "month3": 44,
+      "totalSales": 100
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 210,
+    "productName": "Bose QuietComfort 35 II Wireless Headphones fc",
+    "rating": 5,
+    "price": 84,
+    "discount": 29,
+    "positiveReviews": 47,
+    "negativeReviews": 86,
+    "totalReviews": 133,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 37,
+      "month2": 44,
+      "month3": 51,
+      "totalSales": 132
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 211,
+    "productName": "Roomba Robot Vacuum fc",
+    "rating": 5,
+    "price": 59,
+    "discount": 43,
+    "positiveReviews": 35,
+    "negativeReviews": 15,
+    "totalReviews": 50,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 22,
+      "month2": 73,
+      "month3": 66,
+      "totalSales": 161
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 212,
+    "productName": "Anker PowerCore Portable Charger fc",
+    "rating": 1,
+    "price": 50,
+    "discount": 45,
+    "positiveReviews": 73,
+    "negativeReviews": 74,
+    "totalReviews": 147,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 47,
+      "month2": 20,
+      "month3": 44,
+      "totalSales": 111
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 213,
+    "productName": "GoPro Hero9 Black fc",
+    "rating": 2,
+    "price": 44,
+    "discount": 47,
+    "positiveReviews": 35,
+    "negativeReviews": 82,
+    "totalReviews": 117,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 2,
+      "month2": 17,
+      "month3": 19,
+      "totalSales": 38
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 214,
+    "productName": "JBL Flip 5 Portable Speaker fc",
+    "rating": 2,
+    "price": 45,
+    "discount": 29,
+    "positiveReviews": 63,
+    "negativeReviews": 65,
+    "totalReviews": 128,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 75,
+      "month2": 65,
+      "month3": 90,
+      "totalSales": 230
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 215,
+    "productName": "Apple Watch Series 6 fc",
+    "rating": 4,
+    "price": 43,
+    "discount": 49,
+    "positiveReviews": 94,
+    "negativeReviews": 55,
+    "totalReviews": 149,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 65,
+      "month2": 6,
+      "month3": 20,
+      "totalSales": 91
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 216,
+    "productName": "Dyson Supersonic Hair Dryer fc",
+    "rating": 2,
+    "price": 81,
+    "discount": 27,
+    "positiveReviews": 73,
+    "negativeReviews": 4,
+    "totalReviews": 77,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 92,
+      "month2": 52,
+      "month3": 18,
+      "totalSales": 162
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 217,
+    "productName": "Ring Video Doorbell Pro fc",
+    "rating": 3,
+    "price": 66,
+    "discount": 38,
+    "positiveReviews": 26,
+    "negativeReviews": 38,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 16,
+      "month2": 34,
+      "month3": 81,
+      "totalSales": 131
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 218,
+    "productName": "Sony PlayStation 5 fc",
+    "rating": 5,
+    "price": 38,
+    "discount": 29,
+    "positiveReviews": 41,
+    "negativeReviews": 32,
+    "totalReviews": 73,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 40,
+      "month2": 75,
+      "month3": 85,
+      "totalSales": 200
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 219,
+    "productName": "Nikon D3500 DSLR Camera fc",
+    "rating": 2,
+    "price": 37,
+    "discount": 37,
+    "positiveReviews": 48,
+    "negativeReviews": 2,
+    "totalReviews": 50,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 55,
+      "month2": 45,
+      "month3": 74,
+      "totalSales": 174
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 220,
+    "productName": "Garmin Forerunner 245 GPS Running Watch fc",
+    "rating": 2,
+    "price": 20,
+    "discount": 35,
+    "positiveReviews": 6,
+    "negativeReviews": 90,
+    "totalReviews": 96,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 13,
+      "month2": 58,
+      "month3": 69,
+      "totalSales": 140
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 221,
+    "productName": "NutriBullet Pro Blender fc",
+    "rating": 2,
+    "price": 38,
+    "discount": 21,
+    "positiveReviews": 75,
+    "negativeReviews": 95,
+    "totalReviews": 170,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 19,
+      "month2": 94,
+      "month3": 78,
+      "totalSales": 191
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 222,
+    "productName": "Microsoft Surface Pro 7 fc",
+    "rating": 3,
+    "price": 37,
+    "discount": 30,
+    "positiveReviews": 59,
+    "negativeReviews": 24,
+    "totalReviews": 83,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 91,
+      "month2": 25,
+      "month3": 77,
+      "totalSales": 193
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 223,
+    "productName": "Weber Spirit II E-310 Gas Grill fc",
+    "rating": 3,
+    "price": 7,
+    "discount": 18,
+    "positiveReviews": 15,
+    "negativeReviews": 36,
+    "totalReviews": 51,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 70,
+      "month2": 48,
+      "month3": 21,
+      "totalSales": 139
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 224,
+    "productName": "Vitamix 5200 Blender fc",
+    "rating": 2,
+    "price": 69,
+    "discount": 25,
+    "positiveReviews": 80,
+    "negativeReviews": 8,
+    "totalReviews": 88,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 70,
+      "month2": 54,
+      "month3": 25,
+      "totalSales": 149
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 225,
+    "productName": "TCL 55-Inch 4K Smart TV fc",
+    "rating": 0,
+    "price": 52,
+    "discount": 15,
+    "positiveReviews": 66,
+    "negativeReviews": 88,
+    "totalReviews": 154,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Books",
+    "sales": {
+      "month1": 84,
+      "month2": 75,
+      "month3": 51,
+      "totalSales": 210
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 226,
+    "productName": "AncestryDNA Genetic Testing Kit fc",
+    "rating": 3,
+    "price": 66,
+    "discount": 15,
+    "positiveReviews": 77,
+    "negativeReviews": 56,
+    "totalReviews": 133,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 25,
+      "month2": 10,
+      "month3": 79,
+      "totalSales": 114
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 227,
+    "productName": "Cuisinart 14-Cup Food Processor fc",
+    "rating": 4,
+    "price": 7,
+    "discount": 28,
+    "positiveReviews": 61,
+    "negativeReviews": 17,
+    "totalReviews": 78,
+    "releaseDate": "2023-06-24T05:33:09.614Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 91,
+      "month2": 6,
+      "month3": 83,
+      "totalSales": 180
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 228,
+    "productName": "Instant Pot Duo Crisp + Air Fryer fc",
+    "rating": 3,
+    "price": 3,
+    "discount": 46,
+    "positiveReviews": 18,
+    "negativeReviews": 96,
+    "totalReviews": 114,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 37,
+      "month2": 56,
+      "month3": 65,
+      "totalSales": 158
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 229,
+    "productName": "KitchenAid Stand Mixer fc",
+    "rating": 2,
+    "price": 28,
+    "discount": 42,
+    "positiveReviews": 100,
+    "negativeReviews": 31,
+    "totalReviews": 131,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 86,
+      "month2": 27,
+      "month3": 87,
+      "totalSales": 200
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 230,
+    "productName": "Fitbit Versa 3 fc",
+    "rating": 1,
+    "price": 60,
+    "discount": 19,
+    "positiveReviews": 75,
+    "negativeReviews": 71,
+    "totalReviews": 146,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 9,
+      "month2": 44,
+      "month3": 60,
+      "totalSales": 113
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 231,
+    "productName": "Apple iPad Air fc",
+    "rating": 3,
+    "price": 61,
+    "discount": 19,
+    "positiveReviews": 24,
+    "negativeReviews": 2,
+    "totalReviews": 26,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 42,
+      "month2": 66,
+      "month3": 13,
+      "totalSales": 121
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 232,
+    "productName": "Sony X900H 65-Inch TV fc",
+    "rating": 0,
+    "price": 12,
+    "discount": 21,
+    "positiveReviews": 6,
+    "negativeReviews": 4,
+    "totalReviews": 10,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 67,
+      "month2": 74,
+      "month3": 38,
+      "totalSales": 179
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 233,
+    "productName": "Garmin Venu 2S Fitness Smartwatch fc",
+    "rating": 5,
+    "price": 17,
+    "discount": 21,
+    "positiveReviews": 90,
+    "negativeReviews": 67,
+    "totalReviews": 157,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 6,
+      "month2": 62,
+      "month3": 24,
+      "totalSales": 92
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 234,
+    "productName": "Oculus Quest 2 VR Headset fc",
+    "rating": 4,
+    "price": 49,
+    "discount": 27,
+    "positiveReviews": 42,
+    "negativeReviews": 57,
+    "totalReviews": 99,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 35,
+      "month2": 38,
+      "month3": 89,
+      "totalSales": 162
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 235,
+    "productName": "iRobot Braava Jet M6 Robot Mop fc",
+    "rating": 1,
+    "price": 81,
+    "discount": 48,
+    "positiveReviews": 76,
+    "negativeReviews": 4,
+    "totalReviews": 80,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 28,
+      "month2": 4,
+      "month3": 80,
+      "totalSales": 112
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 236,
+    "productName": "Samsung Galaxy Buds Pro fc",
+    "rating": 0,
+    "price": 15,
+    "discount": 29,
+    "positiveReviews": 63,
+    "negativeReviews": 1,
+    "totalReviews": 64,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 72,
+      "month2": 26,
+      "month3": 48,
+      "totalSales": 146
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 237,
+    "productName": "All-New Fire HD 10 Tablet fc",
+    "rating": 0,
+    "price": 21,
+    "discount": 36,
+    "positiveReviews": 84,
+    "negativeReviews": 65,
+    "totalReviews": 149,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 83,
+      "month2": 77,
+      "month3": 38,
+      "totalSales": 198
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 238,
+    "productName": "Beats Solo Pro Wireless Headphones fc",
+    "rating": 1,
+    "price": 49,
+    "discount": 14,
+    "positiveReviews": 19,
+    "negativeReviews": 41,
+    "totalReviews": 60,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 43,
+      "month2": 69,
+      "month3": 9,
+      "totalSales": 121
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 239,
+    "productName": "Canon EOS M50 Mark II Mirrorless Camera fc",
+    "rating": 2,
+    "price": 29,
+    "discount": 43,
+    "positiveReviews": 43,
+    "negativeReviews": 2,
+    "totalReviews": 45,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 5,
+      "month2": 24,
+      "month3": 62,
+      "totalSales": 91
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 240,
+    "productName": "Breville Barista Express Espresso Machine fc",
+    "rating": 1,
+    "price": 96,
+    "discount": 47,
+    "positiveReviews": 86,
+    "negativeReviews": 90,
+    "totalReviews": 176,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 46,
+      "month2": 8,
+      "month3": 25,
+      "totalSales": 79
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 241,
+    "productName": "LG OLED65CXPUA 65-Inch 4K Smart OLED TV fc",
+    "rating": 4,
+    "price": 65,
+    "discount": 10,
+    "positiveReviews": 93,
+    "negativeReviews": 51,
+    "totalReviews": 144,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 25,
+      "month2": 93,
+      "month3": 41,
+      "totalSales": 159
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 242,
+    "productName": "Fitbit Inspire 2 fc",
+    "rating": 2,
+    "price": 51,
+    "discount": 34,
+    "positiveReviews": 19,
+    "negativeReviews": 30,
+    "totalReviews": 49,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 11,
+      "month2": 85,
+      "month3": 41,
+      "totalSales": 137
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 243,
+    "productName": "Apple MacBook Pro fc",
+    "rating": 4,
+    "price": 44,
+    "discount": 48,
+    "positiveReviews": 49,
+    "negativeReviews": 37,
+    "totalReviews": 86,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 19,
+      "month2": 65,
+      "month3": 85,
+      "totalSales": 169
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 244,
+    "productName": "Microsoft Xbox Series X fc",
+    "rating": 0,
+    "price": 51,
+    "discount": 22,
+    "positiveReviews": 70,
+    "negativeReviews": 85,
+    "totalReviews": 155,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 98,
+      "month2": 73,
+      "month3": 51,
+      "totalSales": 222
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 245,
+    "productName": "Bose SoundLink Revolve Portable Bluetooth Speaker fc",
+    "rating": 4,
+    "price": 43,
+    "discount": 45,
+    "positiveReviews": 52,
+    "negativeReviews": 15,
+    "totalReviews": 67,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 39,
+      "month2": 53,
+      "month3": 9,
+      "totalSales": 101
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 246,
+    "productName": "Samsung Galaxy Tab S7 fc",
+    "rating": 2,
+    "price": 19,
+    "discount": 33,
+    "positiveReviews": 47,
+    "negativeReviews": 34,
+    "totalReviews": 81,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 56,
+      "month2": 18,
+      "month3": 20,
+      "totalSales": 94
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 247,
+    "productName": "Ninja Foodi Deluxe Pressure Cooker fc",
+    "rating": 2,
+    "price": 31,
+    "discount": 44,
+    "positiveReviews": 68,
+    "negativeReviews": 99,
+    "totalReviews": 167,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 73,
+      "month2": 55,
+      "month3": 15,
+      "totalSales": 143
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 248,
+    "productName": "DJI Mavic Air 2 Drone fc",
+    "rating": 5,
+    "price": 85,
+    "discount": 21,
+    "positiveReviews": 80,
+    "negativeReviews": 46,
+    "totalReviews": 126,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 78,
+      "month2": 77,
+      "month3": 46,
+      "totalSales": 201
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 249,
+    "productName": "Fitbit Aria Air Smart Scale fc",
+    "rating": 5,
+    "price": 22,
+    "discount": 10,
+    "positiveReviews": 31,
+    "negativeReviews": 49,
+    "totalReviews": 80,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 47,
+      "month2": 78,
+      "month3": 18,
+      "totalSales": 143
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 250,
+    "productName": "Sony A7 III Full-Frame Mirrorless Camera fc",
+    "rating": 5,
+    "price": 84,
+    "discount": 33,
+    "positiveReviews": 67,
+    "negativeReviews": 78,
+    "totalReviews": 145,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 23,
+      "month2": 55,
+      "month3": 95,
+      "totalSales": 173
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 251,
+    "productName": "Samsung 970 EVO Plus SSD fc",
+    "rating": 4,
+    "price": 95,
+    "discount": 20,
+    "positiveReviews": 79,
+    "negativeReviews": 54,
+    "totalReviews": 133,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 92,
+      "month2": 73,
+      "month3": 12,
+      "totalSales": 177
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 252,
+    "productName": "Logitech MX Master 3 Wireless Mouse fc",
+    "rating": 0,
+    "price": 42,
+    "discount": 50,
+    "positiveReviews": 13,
+    "negativeReviews": 50,
+    "totalReviews": 63,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 63,
+      "month2": 69,
+      "month3": 14,
+      "totalSales": 146
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 253,
+    "productName": "Apple iPhone 12 Pro Max fc",
+    "rating": 5,
+    "price": 96,
+    "discount": 14,
+    "positiveReviews": 52,
+    "negativeReviews": 8,
+    "totalReviews": 60,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 92,
+      "month2": 64,
+      "month3": 85,
+      "totalSales": 241
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 254,
+    "productName": "LG CX 55-Inch OLED 4K Smart TV fc",
+    "rating": 4,
+    "price": 3,
+    "discount": 24,
+    "positiveReviews": 80,
+    "negativeReviews": 100,
+    "totalReviews": 180,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 69,
+      "month2": 54,
+      "month3": 7,
+      "totalSales": 130
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 255,
+    "productName": "Bose SoundSport Wireless Earbuds fc",
+    "rating": 1,
+    "price": 11,
+    "discount": 50,
+    "positiveReviews": 3,
+    "negativeReviews": 60,
+    "totalReviews": 63,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 78,
+      "month2": 47,
+      "month3": 23,
+      "totalSales": 148
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 256,
+    "productName": "Microsoft Surface Laptop 4 fc",
+    "rating": 4,
+    "price": 25,
+    "discount": 41,
+    "positiveReviews": 91,
+    "negativeReviews": 79,
+    "totalReviews": 170,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 56,
+      "month2": 36,
+      "month3": 12,
+      "totalSales": 104
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 257,
+    "productName": "Roku Streaming Stick+ fc",
+    "rating": 2,
+    "price": 96,
+    "discount": 50,
+    "positiveReviews": 33,
+    "negativeReviews": 76,
+    "totalReviews": 109,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 3,
+      "month2": 50,
+      "month3": 96,
+      "totalSales": 149
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 258,
+    "productName": "Anker Soundcore Liberty Air 2 Pro Earbuds fc",
+    "rating": 1,
+    "price": 59,
+    "discount": 13,
+    "positiveReviews": 5,
+    "negativeReviews": 48,
+    "totalReviews": 53,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Home Decor",
+    "sales": {
+      "month1": 75,
+      "month2": 41,
+      "month3": 74,
+      "totalSales": 190
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 259,
+    "productName": "Canon EOS R6 Mirrorless Camera fc",
+    "rating": 3,
+    "price": 33,
+    "discount": 49,
+    "positiveReviews": 99,
+    "negativeReviews": 5,
+    "totalReviews": 104,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 50,
+      "month2": 94,
+      "month3": 69,
+      "totalSales": 213
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 260,
+    "productName": "Sony WF-1000XM4 True Wireless Earbuds fc",
+    "rating": 4,
+    "price": 72,
+    "discount": 17,
+    "positiveReviews": 23,
+    "negativeReviews": 49,
+    "totalReviews": 72,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 55,
+      "month2": 71,
+      "month3": 76,
+      "totalSales": 202
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 261,
+    "productName": "Garmin Fenix 6 Pro fc",
+    "rating": 2,
+    "price": 27,
+    "discount": 11,
+    "positiveReviews": 21,
+    "negativeReviews": 68,
+    "totalReviews": 89,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 89,
+      "month2": 11,
+      "month3": 72,
+      "totalSales": 172
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 262,
+    "productName": "LG 27UK850-W 27-Inch 4K Monitor fc",
+    "rating": 1,
+    "price": 26,
+    "discount": 42,
+    "positiveReviews": 9,
+    "negativeReviews": 50,
+    "totalReviews": 59,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 63,
+      "month2": 23,
+      "month3": 44,
+      "totalSales": 130
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 263,
+    "productName": "Crock-Pot Express Multi-Cooker fc",
+    "rating": 1,
+    "price": 77,
+    "discount": 41,
+    "positiveReviews": 86,
+    "negativeReviews": 14,
+    "totalReviews": 100,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 65,
+      "month2": 63,
+      "month3": 24,
+      "totalSales": 152
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 264,
+    "productName": "Samsung Galaxy S21 Ultra fc",
+    "rating": 4,
+    "price": 77,
+    "discount": 13,
+    "positiveReviews": 81,
+    "negativeReviews": 69,
+    "totalReviews": 150,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 85,
+      "month2": 22,
+      "month3": 87,
+      "totalSales": 194
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 265,
+    "productName": "ASUS ROG Strix G15 Gaming Laptop fc",
+    "rating": 2,
+    "price": 32,
+    "discount": 18,
+    "positiveReviews": 56,
+    "negativeReviews": 82,
+    "totalReviews": 138,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 56,
+      "month2": 62,
+      "month3": 9,
+      "totalSales": 127
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 266,
+    "productName": "Fitbit Sense Advanced Smartwatch fc",
+    "rating": 5,
+    "price": 77,
+    "discount": 29,
+    "positiveReviews": 85,
+    "negativeReviews": 1,
+    "totalReviews": 86,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 50,
+      "month2": 33,
+      "month3": 32,
+      "totalSales": 115
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 267,
+    "productName": "Sony X800H 55-Inch 4K Smart TV fc",
+    "rating": 5,
+    "price": 15,
+    "discount": 47,
+    "positiveReviews": 51,
+    "negativeReviews": 66,
+    "totalReviews": 117,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 71,
+      "month2": 83,
+      "month3": 2,
+      "totalSales": 156
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 268,
+    "productName": "Google Nest Cam Indoor Security Camera fc",
+    "rating": 5,
+    "price": 91,
+    "discount": 44,
+    "positiveReviews": 99,
+    "negativeReviews": 4,
+    "totalReviews": 103,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 16,
+      "month2": 95,
+      "month3": 81,
+      "totalSales": 192
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 269,
+    "productName": "Breville Smart Oven Air fc",
+    "rating": 5,
+    "price": 31,
+    "discount": 23,
+    "positiveReviews": 48,
+    "negativeReviews": 1,
+    "totalReviews": 49,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Mobiles",
+    "sales": {
+      "month1": 82,
+      "month2": 4,
+      "month3": 56,
+      "totalSales": 142
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 270,
+    "productName": "Beats Powerbeats Pro Wireless Earphones fc",
+    "rating": 2,
+    "price": 49,
+    "discount": 39,
+    "positiveReviews": 67,
+    "negativeReviews": 87,
+    "totalReviews": 154,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 57,
+      "month2": 29,
+      "month3": 31,
+      "totalSales": 117
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 271,
+    "productName": "Bose Solo 5 TV Soundbar fc",
+    "rating": 5,
+    "price": 42,
+    "discount": 44,
+    "positiveReviews": 30,
+    "negativeReviews": 70,
+    "totalReviews": 100,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 86,
+      "month2": 68,
+      "month3": 58,
+      "totalSales": 212
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 272,
+    "productName": "Apple iMac 27-Inch Retina 5K Display fc",
+    "rating": 3,
+    "price": 21,
+    "discount": 42,
+    "positiveReviews": 32,
+    "negativeReviews": 94,
+    "totalReviews": 126,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 79,
+      "month2": 19,
+      "month3": 55,
+      "totalSales": 153
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 273,
+    "productName": "NVIDIA GeForce RTX 3080 Graphics Card fc",
+    "rating": 2,
+    "price": 8,
+    "discount": 29,
+    "positiveReviews": 75,
+    "negativeReviews": 12,
+    "totalReviews": 87,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 61,
+      "month2": 57,
+      "month3": 79,
+      "totalSales": 197
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 274,
+    "productName": "Nintendo Switch Lite fc",
+    "rating": 1,
+    "price": 92,
+    "discount": 46,
+    "positiveReviews": 80,
+    "negativeReviews": 78,
+    "totalReviews": 158,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 93,
+      "month2": 80,
+      "month3": 81,
+      "totalSales": 254
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 275,
+    "productName": "Jabra Elite 85t True Wireless Earbuds fc",
+    "rating": 0,
+    "price": 40,
+    "discount": 19,
+    "positiveReviews": 71,
+    "negativeReviews": 3,
+    "totalReviews": 74,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 34,
+      "month2": 7,
+      "month3": 79,
+      "totalSales": 120
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 276,
+    "productName": "Canon EOS 90D DSLR Camera fc",
+    "rating": 3,
+    "price": 74,
+    "discount": 22,
+    "positiveReviews": 54,
+    "negativeReviews": 43,
+    "totalReviews": 97,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 47,
+      "month2": 48,
+      "month3": 1,
+      "totalSales": 96
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 277,
+    "productName": "Samsung Galaxy S20 FE fc",
+    "rating": 4,
+    "price": 17,
+    "discount": 44,
+    "positiveReviews": 4,
+    "negativeReviews": 55,
+    "totalReviews": 59,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 72,
+      "month2": 49,
+      "month3": 18,
+      "totalSales": 139
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 278,
+    "productName": "Logitech G502 HERO Gaming Mouse fc",
+    "rating": 0,
+    "price": 49,
+    "discount": 21,
+    "positiveReviews": 93,
+    "negativeReviews": 45,
+    "totalReviews": 138,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 7,
+      "month2": 52,
+      "month3": 75,
+      "totalSales": 134
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 279,
+    "productName": "LG OLED48C1 48-Inch 4K Smart OLED TV fc",
+    "rating": 2,
+    "price": 96,
+    "discount": 45,
+    "positiveReviews": 29,
+    "negativeReviews": 40,
+    "totalReviews": 69,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 38,
+      "month2": 49,
+      "month3": 14,
+      "totalSales": 101
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 280,
+    "productName": "Dyson V11 Animal Cordless Vacuum Cleaner fc",
+    "rating": 3,
+    "price": 31,
+    "discount": 43,
+    "positiveReviews": 24,
+    "negativeReviews": 10,
+    "totalReviews": 34,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 47,
+      "month2": 71,
+      "month3": 19,
+      "totalSales": 137
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 281,
+    "productName": "Philips Hue White and Color Ambiance Smart Bulb fc",
+    "rating": 3,
+    "price": 62,
+    "discount": 42,
+    "positiveReviews": 42,
+    "negativeReviews": 11,
+    "totalReviews": 53,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 86,
+      "month2": 79,
+      "month3": 85,
+      "totalSales": 250
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 282,
+    "productName": "Apple AirTag fc",
+    "rating": 4,
+    "price": 26,
+    "discount": 28,
+    "positiveReviews": 62,
+    "negativeReviews": 76,
+    "totalReviews": 138,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 69,
+      "month2": 4,
+      "month3": 70,
+      "totalSales": 143
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 283,
+    "productName": "Razer BlackWidow Elite Mechanical Gaming Keyboard fc",
+    "rating": 1,
+    "price": 32,
+    "discount": 50,
+    "positiveReviews": 49,
+    "negativeReviews": 71,
+    "totalReviews": 120,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 70,
+      "month2": 67,
+      "month3": 24,
+      "totalSales": 161
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 284,
+    "productName": "Sony ZV-1 Compact Camera fc",
+    "rating": 2,
+    "price": 58,
+    "discount": 43,
+    "positiveReviews": 37,
+    "negativeReviews": 56,
+    "totalReviews": 93,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Gaming",
+    "sales": {
+      "month1": 6,
+      "month2": 48,
+      "month3": 44,
+      "totalSales": 98
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 285,
+    "productName": "Amazon Echo Show 10 (3rd generation) fc",
+    "rating": 3,
+    "price": 63,
+    "discount": 41,
+    "positiveReviews": 83,
+    "negativeReviews": 73,
+    "totalReviews": 156,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 44,
+      "month2": 97,
+      "month3": 86,
+      "totalSales": 227
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 286,
+    "productName": "HP Pavilion 27-Inch FHD Monitor fc",
+    "rating": 1,
+    "price": 18,
+    "discount": 40,
+    "positiveReviews": 49,
+    "negativeReviews": 78,
+    "totalReviews": 127,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Traveling",
+    "sales": {
+      "month1": 13,
+      "month2": 72,
+      "month3": 88,
+      "totalSales": 173
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 287,
+    "productName": "Bose QuietComfort Earbuds fc",
+    "rating": 5,
+    "price": 42,
+    "discount": 27,
+    "positiveReviews": 54,
+    "negativeReviews": 94,
+    "totalReviews": 148,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 98,
+      "month2": 24,
+      "month3": 28,
+      "totalSales": 150
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 288,
+    "productName": "Sony Alpha a6400 Mirrorless Camera fc",
+    "rating": 1,
+    "price": 56,
+    "discount": 14,
+    "positiveReviews": 0,
+    "negativeReviews": 53,
+    "totalReviews": 53,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 95,
+      "month2": 72,
+      "month3": 72,
+      "totalSales": 239
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 289,
+    "productName": "Garmin Instinct Solar Outdoor GPS Watch fc",
+    "rating": 4,
+    "price": 35,
+    "discount": 17,
+    "positiveReviews": 12,
+    "negativeReviews": 80,
+    "totalReviews": 92,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 84,
+      "month2": 5,
+      "month3": 47,
+      "totalSales": 136
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 290,
+    "productName": "Nintendo Switch Pro Controller fc",
+    "rating": 0,
+    "price": 9,
+    "discount": 41,
+    "positiveReviews": 49,
+    "negativeReviews": 33,
+    "totalReviews": 82,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 69,
+      "month2": 51,
+      "month3": 13,
+      "totalSales": 133
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 291,
+    "productName": "Fitbit Flex 2 fc",
+    "rating": 2,
+    "price": 84,
+    "discount": 29,
+    "positiveReviews": 90,
+    "negativeReviews": 82,
+    "totalReviews": 172,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 94,
+      "month2": 57,
+      "month3": 34,
+      "totalSales": 185
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 292,
+    "productName": "Apple iPad Pro fc",
+    "rating": 0,
+    "price": 36,
+    "discount": 46,
+    "positiveReviews": 38,
+    "negativeReviews": 90,
+    "totalReviews": 128,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Toys",
+    "sales": {
+      "month1": 9,
+      "month2": 48,
+      "month3": 23,
+      "totalSales": 80
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 293,
+    "productName": "Samsung QN90A 75-Inch Neo QLED 4K Smart TV fc",
+    "rating": 5,
+    "price": 57,
+    "discount": 25,
+    "positiveReviews": 79,
+    "negativeReviews": 8,
+    "totalReviews": 87,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 80,
+      "month2": 100,
+      "month3": 79,
+      "totalSales": 259
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 294,
+    "productName": "Breville Joule Sous Vide fc",
+    "rating": 3,
+    "price": 97,
+    "discount": 43,
+    "positiveReviews": 86,
+    "negativeReviews": 92,
+    "totalReviews": 178,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Sports",
+    "sales": {
+      "month1": 29,
+      "month2": 10,
+      "month3": 60,
+      "totalSales": 99
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 295,
+    "productName": "Sony WH-1000XM3 Wireless Noise-Canceling Headphones fc",
+    "rating": 5,
+    "price": 60,
+    "discount": 19,
+    "positiveReviews": 51,
+    "negativeReviews": 49,
+    "totalReviews": 100,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 4,
+      "month2": 11,
+      "month3": 48,
+      "totalSales": 63
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 296,
+    "productName": "LG Gram 17-Inch Laptop fc",
+    "rating": 2,
+    "price": 76,
+    "discount": 16,
+    "positiveReviews": 64,
+    "negativeReviews": 60,
+    "totalReviews": 124,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 99,
+      "month2": 8,
+      "month3": 4,
+      "totalSales": 111
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 297,
+    "productName": "Google Pixel 5 fc",
+    "rating": 3,
+    "price": 71,
+    "discount": 33,
+    "positiveReviews": 25,
+    "negativeReviews": 32,
+    "totalReviews": 57,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Beauty",
+    "sales": {
+      "month1": 64,
+      "month2": 83,
+      "month3": 98,
+      "totalSales": 245
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 298,
+    "productName": "Ring Stick Up Cam Battery fc",
+    "rating": 4,
+    "price": 37,
+    "discount": 50,
+    "positiveReviews": 49,
+    "negativeReviews": 22,
+    "totalReviews": 71,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Books",
+    "sales": {
+      "month1": 74,
+      "month2": 15,
+      "month3": 28,
+      "totalSales": 117
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 299,
+    "productName": "KitchenAid Artisan Series Stand Mixer fc",
+    "rating": 4,
+    "price": 97,
+    "discount": 19,
+    "positiveReviews": 42,
+    "negativeReviews": 86,
+    "totalReviews": 128,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Electronic",
+    "sales": {
+      "month1": 32,
+      "month2": 85,
+      "month3": 29,
+      "totalSales": 146
+    },
+    "seller": "Flipkart"
+  },
+  {
+    "productId": 300,
+    "productName": "DJI Osmo Pocket Handheld Camera fc",
+    "rating": 4,
+    "price": 1,
+    "discount": 22,
+    "positiveReviews": 59,
+    "negativeReviews": 52,
+    "totalReviews": 111,
+    "releaseDate": "2023-06-24T05:33:09.615Z",
+    "category": "Daily life",
+    "sales": {
+      "month1": 92,
+      "month2": 75,
+      "month3": 47,
+      "totalSales": 214
+    },
+    "seller": "Flipkart"
+  }
+]

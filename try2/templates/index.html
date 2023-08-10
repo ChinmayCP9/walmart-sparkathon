@@ -1,0 +1,55 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Price Prediction</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#predict-form').submit(function(e) {
+                e.preventDefault();
+                $.ajax({
+                    type: 'POST',
+                    url: '/predict',
+                    data: $(this).serialize(),
+                    success: function(response) {
+                        $('#prediction').text(response.prediction);
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Price Prediction</h1>
+    <form id="predict-form">
+        <label for="input_data">Select Category:</label>
+        <select name="input_data" id="input_data">
+            <option value="Electronic">Electronic</option>
+            <option value="Home Decor">Home Decor</option>
+            <option value="Books">Books</option>
+            <option value="Sports">Sports</option>
+            <option value="Gaming">Gaming</option>
+            <option value="Daily life">Daily life</option>
+            <option value="Mobiles">Mobiles</option>
+            <option value="Traveling">Traveling</option>
+            <option value="Toys">Toys</option>
+            <option value="Beauty">Beauty</option>
+            <option value="Accessories">Accessories</option>
+            <option value="Kitchen">Kitchen</option>
+            <option value="Outdoor">Outdoor</option>
+            <option value="Bathroom">Bathroom</option>
+            <option value="Personal Care">Personal Care</option>
+            <option value="Apparel">Apparel</option>
+            <option value="Office Supplies">Office Supplies</option>
+            <option value="Household">Household</option>
+            <option value="Electronics">Electronics</option>
+            <option value="Bedroom">Bedroom</option>
+            <option value="Appliances">Appliances</option>
+        </select>
+        <input type="submit" value="Predict">
+    </form>
+    
+    <h2 id="prediction"></h2>
+</body>
+</html>

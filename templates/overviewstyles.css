@@ -1,0 +1,91 @@
+/* Custom styles for User Behavioral Analysis */
+
+body {
+    padding-top: 100px;
+    background-color: #474747ef;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ff8800;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #343a40;
+    margin-top: 50px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  th {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+  
+  .generate-button {
+    display: block;
+    margin: 40px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .generate-button:hover {
+    background-color: #218838;
+  }
+  
+  .navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    color: #343a40;
+    font-size: 24px;
+  }
+  
+  .nav-link {
+    color: #343a40;
+  }
+  
+  .nav-link:hover {
+    color: #17a2b8;
+  }
+  
+  .dropdown-menu {
+    margin-top: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-item {
+    color: #343a40;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #17a2b8;
+  }
+  
+  

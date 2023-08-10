@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
+    />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="predictive2styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="predictive3styles.css">
+    <title>DataMinds</title>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top ">
+      <!-- navbar-expand-lg for responsiveness sizing 
+      bg-dark for color
+      navbar-dark so the text is light / text-primary 
+      
+      -->
+      <div class="container">
+        <a href="#" class="navbar-brand">DataMinds</a>
+        <!-- navbar-brand for the logo/element -->
+        <button
+          class="navbar-toggler" 
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navmenu"
+        >
+        <!-- collapse so the navmenu below becomes a hamburger menu -->
+        <!-- data-bs-target takes the data from #navmenu id -->
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navmenu">
+          <!-- collapse navbar-collapse so when the screen becomes small it will be a dropdown menu -->
+          <ul class="navbar-nav ms-auto">
+            <!-- ms-auto to line it to the right end -->
+            <li class="nav-item">
+              <!-- nav-item for the items in navbar -->
+              <a href="#learn" class="nav-link">Predictive Analysis</a>
+            </li>
+            <li class="nav-item">
+              <a href="#questions" class="nav-link">Products</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Descriptive Analysis
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="catagory.html">General analysis</a></li>
+                <li><a class="dropdown-item" href="price_VS_rating.html">Price Vs Rating</a></li>
+                <li><a class="dropdown-item" href="review_graph.html">Reviews Chart</a></li>
+                <!-- <li><a class="dropdown-item" href="#">Sales Charts</a></li> -->
+                <li><a class="dropdown-item" href="genOwnChart2.html">add json</a></li>
+    
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a href="#instructors" class="nav-link">Overview</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Showcase -->
+    <section
+      class=" text-light p-5 p-lg-0 pt-lg-5 p-3 text-center text-sm-start mt-5 " style="background-color:black ;"
+    >
+    <!-- text-sm-start till the size is sm the text will be aligned at the start and on mobile screen sm it will be centerd  -->
+    <!-- text-light for the color and p is for padding pt for padding-top -->
+      <div class="container">
+        <div class="d-sm-flex align-items-center justify-content-between"> 
+          <!-- justify-content-between works like justify-content: space inbetween-->
+          <!-- d-sm-flex sm is a breakpoint and d-flex is for a flexbox -->
+          <div>
+            <h1>Descriptive<span class="text-warning"> And Predictive Analysis </span></h1>
+            <!-- warning = yellow -->
+            <p class="lead my-5 ">
+              <!-- lead is to change the text size m is for margin and y for y axixs so my-5 -->
+              DataMinds is a data analysis firm specializing in ecommerce website analysis.
+              Based in Solapur, Maharashtra, we pride ourselves on providing accurate and actionable insights to our clients.
+              Our team of experts uses cutting-edge technology and proven methodologies to deliver valuable information that helps businesses make informed decisions. At DataMinds, we are committed to providing exceptional service and helping our clients achieve their goals.
+
+            </p>
+          </div>
+          <img
+            class="img-fluid w-50 d-none d-sm-block"
+            style="height: 200px;"
+            src="imgs/logo5.png"
+            alt=""
+          />
+          <!-- d-none removes the img and d-sm-block removes it only when the screen is sm -->
+          <!-- w-50 for weidth h-50 for height -->
+        </div>
+      </div>
+    </section>
+
+
+    <section class="p-5">
+      <div class="container">
+        <div class="row text-center g-4">
+          <!-- g-4 for gap -->
+          <div class="col-md">
+            <!-- col-md stacks the columns when size becomes md -->
+            <div class="card bg-dark text-light">
+              <div class="card-body text-center">
+                <div class="h1 ">
+                  <i class="bi bi-laptop"></i>
+                  <!-- bi for bootstrap icons -->
+                </div>
+                <h3 class="card-title ">Total sales</h3>
+                <!-- mb margin bottom  -->
+                <p class="card-text">
+                  Sales for all the sellers: <br> Walmart, amazon, ebay, flipkart
+                </p>
+                <p id="totalSalesText"></p>
+                <!-- btn-primary for blue color -->
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-secondary text-light">
+              <div class="card-body text-center">
+                <div class="h1 ">
+                  <i class="bi bi-person-square"></i>
+                  <!-- bi for bootstrap icons -->
+                </div>
+                <h3 class="card-title  ">Total reviews</h3>
+                <p class="mb-4">Both Possitive and negative</p>
+                <!-- card-title for the title -->
+                <p id="totalReviewsText">No. of Reviews from all sites</p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-dark text-light">
+              <div class="card-body text-center">
+                <!-- text center for allignment -->
+                <div class="h1 ">
+                  <i class="bi bi-people"></i>
+                </div>
+                <h3 class="card-title ">Total products</h3>
+                <p class="card-text">
+                  products from amazon, ebay, flipkart
+                </p>
+                <p id="totalProductsText"></p>
+                <!-- <a href="#" class="btn btn-primary">Read More</a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="learn" class="p-5">
+      <div class="container">
+        <div class="row align-items-center justify-content-between">
+          <div class="col-md">
+            <img style="height: 400px;" src="imgs/description.webp" class="img-fluid" alt="" />
+            <!-- img-fuild so the img stays in the container and does not overflow -->
+          </div>
+          <div class="col-md p-5">
+            <h2>Descriptive Analysis</h2>
+            <p class="lead">
+              Descriptive analysis is an essential initial step in data analysis that aims to summarize and present key characteristics of a dataset. It provides a concise overview of the data.
+
+            </p>
+            <p>
+              descriptive analysis helps identify patterns, trends, and outliers within the data. This exploration aids in understanding the data's basic properties and uncovering valuable insights for decision-making. With its focus on summarization and presentation
+            </p>
+            <a href="#" class="btn btn-light mt-3">
+              <i class="bi bi-chevron-right"></i> Read More
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="learn" class="p-5 bg-dark text-light">
+        <div class="container">
+          <div class="row align-items-center justify-content-between">
+            <div class="col-md p-5">
+              <h2>Predictive Analysis</h2>
+              <p class="lead">
+                Predictive analysis is a methodology that leverages historical data, statistical algorithms, and machine learning techniques to make predictions about future outcomes.
+
+              </p>
+              <p>
+                Predictive analysis empowers organizations to gain a competitive advantage by leveraging insights into future trends and potential outcomes, leading to improved efficiency, profitability, and strategic decision-making.
+
+              </p>
+              <a href="#" class="btn btn-light mt-3">
+                <i class="bi bi-chevron-right"></i> Read More
+              </a>
+            </div>
+            <div class="col-md">
+              <img style="height: 300px;" src="imgs/prediction.png" class="img-fluid" alt="" />
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Predictive Analysis -->
+      <!-- positive reviews and total sales start -->
+      <h4 style="text-align: center;">Predictive Analysis Results for positive reviews and total sales </h4>
+      <h5 style="text-align: center;" >
+        This program employs a linear regression analysis to forecast sales performance based on positive reviews. It begins by sourcing data from a designated CSV file, encompassing pertinent product attributes such as the count of favorable reviews and the corresponding sales figures over a three-month period.
+The data is stratified into a training set, utilized for model training, and a test set, employed to gauge model efficacy. A linear regression model is constructed to establish a mathematical relationship between positive reviews and sales, essentially capturing the underlying trends in the data.
+Following model calibration, its predictive capabilities are assessed using the test set, employing the root mean squared error as a metric for performance evaluation. This metric quantifies the disparity between predicted and actual sales, thus offering insight into the model's accuracy.
+
+      </h5>
+      <ul style="text-align: center;" id="resultsList"></ul>
+      <div id="barChartContainer">
+        <canvas id="barChart"></canvas>
+      </div>
+
+      <h1>IPython Notebook Output</h1>
+      <form action="/" method="post">
+        <label for="user_input">Enter a value:</label>
+        <input type="text" id="user_input" name="user_input">
+        <input type="submit" value="Submit">
+    </form>
+    <p>Output from the IPython Notebook:</p>
+    <pre>{{ script_output }}</pre>
+  <script>
+    // Read the JSON file
+    fetch('products1.json')
+      .then(response => response.json())
+      .then(data => {
+        // Extract the relevant data for analysis
+        const positiveReviews = data.map(item => item.positiveReviews);
+        const totalSales = data.map(item => item.sales.totalSales);
+
+        // Calculate correlation coefficient
+        const correlation = calculateCorrelation(positiveReviews, totalSales);
+
+        // Calculate correlation percentage
+        const correlationPercentage = (correlation * 100).toFixed(2);
+
+        // Display the results on the screen
+        const resultsList = document.getElementById('resultsList');
+        resultsList.innerHTML = `
+          <li>Correlation between positive reviews and total sales: ${correlationPercentage}%</li>
+        `;
+
+        // Create a bar chart
+        const ctx = document.getElementById('barChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: data.map(item => item.productId),
+            datasets: [{
+              label: 'Positive Reviews',
+              data: positiveReviews,
+              backgroundColor: 'rgba(54, 162, 235, 0.5)',
+              borderColor: 'rgba(54, 162, 235, 1)',
+              borderWidth: 2
+            }, {
+              label: 'Total Sales',
+              data: totalSales,
+              backgroundColor: 'rgba(255, 99, 132, 0.5)',
+              borderColor: 'rgba(255, 99, 132, 1)',
+              borderWidth: 2
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      })
+      .catch(error => console.error('Error reading JSON file:', error));
+
+    // Calculate correlation coefficient
+    function calculateCorrelation(xArray, yArray) {
+      const n = xArray.length;
+      const sumX = xArray.reduce((a, b) => a + b, 0);
+      const sumY = yArray.reduce((a, b) => a + b, 0);
+      const sumXY = xArray.map((value, index) => value * yArray[index]).reduce((a, b) => a + b, 0);
+      const sumXSquare = xArray.map(value => value * value).reduce((a, b) => a + b, 0);
+      const sumYSquare = yArray.map(value => value * value).reduce((a, b) => a + b, 0);
+
+      const correlation = (n * sumXY - sumX * sumY) / Math.sqrt((n * sumXSquare - sumX * sumX) * (n * sumYSquare - sumY * sumY));
+      return correlation;
+    }
+  </script>
+    
+    
+    <!-- positive reviews and total sales end -->
+    <!-- negative reviews and total sales -->
+<h4 style="margin-top: 60px; text-align: center;">Predictive Analysis Results for ales Analysis by Seller</h4>
+<h5 style="text-align: center;" >
+  This program applies linear regression analysis to predict sales performance based on negative reviews. It commences by sourcing data from a specified CSV file, encompassing significant product attributes such as the count of unfavorable reviews and the corresponding sales figures spanning three months.
+
+The dataset is bifurcated into a training set, used for model training, and a test set, employed for model effectiveness assessment. Subsequently, a linear regression model is constructed to establish a mathematical relationship between negative reviews and sales, thereby encapsulating the inherent trends within the data. Following model calibration, its predictive prowess is evaluated using the test set, utilizing the root mean squared error as a performance metric.
+
+This metric quantifies the disparity between predicted and actual sales, thus furnishing insights into the model's precision.
+
+</h5>
+  <ul id="resultsList"></ul>
+  <div id="barChartContainer">
+    <canvas id="barChart1" ></canvas>
+  </div>
+
+  <script>
+    // Read the JSON file
+    fetch('products1.json')
+      .then(response => response.json())
+      .then(data => {
+        // Extract the relevant data for analysis
+        const negativeReviews = data.map(item => item.negativeReviews);
+        const totalSales = data.map(item => item.sales.totalSales);
+
+        // Calculate correlation coefficient
+        const correlation = calculateCorrelation(negativeReviews, totalSales);
+
+        // Calculate correlation percentage
+        const correlationPercentage = (correlation * 100).toFixed(2);
+
+        // Display the results on the screen
+        const resultsList = document.getElementById('resultsList');
+        resultsList.innerHTML = `
+          <li>Correlation between negative reviews and total sales: ${correlationPercentage}%</li>
+        `;
+
+        // Create a bar chart
+        const ctx = document.getElementById('barChart1').getContext('2d');
+        new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: data.map(item => item.productId),
+            datasets: [{
+              label: 'Negative Reviews',
+              data: negativeReviews,
+              backgroundColor: 'rgba(255, 99, 132, 0.5)',
+              borderColor: 'rgba(255, 99, 132, 1)',
+              borderWidth: 2
+            }, {
+              label: 'Total Sales',
+              data: totalSales,
+              backgroundColor: 'rgba(54, 162, 235, 0.5)',
+              borderColor: 'rgba(54, 162, 235, 1)',
+              borderWidth: 2
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      })
+      .catch(error => console.error('Error reading JSON file:', error));
+
+    // Calculate correlation coefficient
+    function calculateCorrelation(xArray, yArray) {
+      const n = xArray.length;
+      const sumX = xArray.reduce((a, b) => a + b, 0);
+      const sumY = yArray.reduce((a, b) => a + b, 0);
+      const sumXY = xArray.map((value, index) => value * yArray[index]).reduce((a, b) => a + b, 0);
+      const sumXSquare = xArray.map(value => value * value).reduce((a, b) => a + b, 0);
+      const sumYSquare = yArray.map(value => value * value).reduce((a, b) => a + b, 0);
+
+      const correlation = (n * sumXY - sumX * sumY) / Math.sqrt((n * sumXSquare - sumX * sumX) * (n * sumYSquare - sumY * sumY));
+      return correlation;
+    }
+  </script>
+  <!-- <style>
+    ul {
+      list-style-type: none;
+    }
+    #barChartContainer {
+      max-width: 800px;
+      margin: 0 auto;
+      height: 600px;
+    }
+  </style> -->
+  <!-- end -->
+  
+  
+  <!-- Contact & Map -->
+  <section class="p-5 " style="text-align: center; width: auto;" >
+        
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3801.6103267613375!2d75.92023767508957!3d17.6686055832673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc5da42cf5b6333%3A0xce43e421c82afed7!2sWalchand%20Institute%20Of%20Technology%20(%20W.I.T%20)!5e0!3m2!1sen!2sin!4v1688376669823!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3801.6103267613375!2d75.92023767508957!3d17.6686055832673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc5da42cf5b6333%3A0xce43e421c82afed7!2sWalchand%20Institute%20Of%20Technology%20(%20W.I.T%20)!5e0!3m2!1sen!2sin!4v1688380909181!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </section>
+
+
+  
+  
+  <div style="text-align: center; " class="bg-dark text-light p-3 " >
+    If you have questions about anything or advertising, please contact us at vrpalrecha2102@gmail.com and paranjapechinmay0@gmail.com
+</div>
+
+<div style="text-align: center; " class="bg-dark text-light" >
+  © 2023 Copyright: DataMinds
+</div>
+
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
